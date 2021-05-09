@@ -1,0 +1,3 @@
+[submodule "website/themes/hugrid"]
+	path = website/themes/hugrid
+	url = https://github.com/aerohub/hugrid.git
