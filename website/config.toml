@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://zclab.github.io/tikz/"
 languageCode = "en-us"
-title = "My Tikz Reference Library"
+title = "My Favorite Tikz Library"
 themesDir = "./themes/"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
@@ -14,7 +14,7 @@ publishdir = "../docs" # we go one level up to store site for GitHub pages
 
 [params]
 # Meta
-title = "zclab · My Tikz Reference Library"
+title = "zclab · My Favorite Tikz Library"
 subtitle = "Favorite Tikz graphics"
 author = "Collected from the world"
 description = "some modified and commented"
