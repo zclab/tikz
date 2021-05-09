@@ -10,29 +10,24 @@ theme = "hugrid"
 contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
-publishdir = "../docs"    # we go one level up to store site for GitHub pages
+publishdir = "../docs" # we go one level up to store site for GitHub pages
 
 [params]
-    # Meta
-    title = "zclab · My Tikz Reference Library"
-    subtitle = "Favorite Tikz graphics"
-    author = "Collected from the world"
-    description = "some modified and commented"
-    keywords = "LaTeX, TikZ, graphics, favorites"
+# Meta
+title = "zclab · My Tikz Reference Library"
+subtitle = "Favorite Tikz graphics"
+author = "Collected from the world"
+description = "some modified and commented"
+keywords = "LaTeX, TikZ, graphics, favorites"
 
-    # Body background color
-    bodybgcolor = "#f9f9f9"
+# Body background color
+bodybgcolor = "#f9f9f9"
 
-    # Preview container button text
-    buttontext = "Check the code on GitHub"
+# Preview container button text
+buttontext = "Check the code on GitHub"
 
-    # Footer text
-    footertext = "Template made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [Aerohub](https://github.com/aerohub)"
+# Footer text
+footertext = "Template made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [Aerohub](https://github.com/aerohub)"
 
-    # add extra-css
-    # custom_css = ['css/extra1.css', 'css/extra2.css']
-
-# experimental. maybe will be done much later
-[custom]
-    srcFolder = "../src"      # folder should be relative to where site is located
-    outFolder = "../out"      # folder where .png and .pdf files will be stored
+# add extra-css
+# custom_css = ['css/extra1.css', 'css/extra2.css']

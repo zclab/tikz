@@ -3,10 +3,6 @@ import os
 from pathlib import Path
 
 
-def get_file_info(file):
-    return file.name, file.suffix
-
-
 def get_item_toml(*item):
     return """[[items]]\ntitle = "{}"\nimage = "{}"\nthumb = "{}"\nalt= "{}"\ndescription = "{}"\nurl = "{}"\n\n""".format(*item)
 
@@ -36,8 +32,7 @@ class GenerateWebsiteData:
         return self._img_url
 
     def format_item(self, file):
-        title = file.name
-        return title, self.img_url + file.name, self.img_url + file.name, title, self.rep_url, self.rep_url + "blob/main/src/" + file.with_suffix(".tex").name
+        return file.name, self.img_url + file.name, self.img_url + file.name, file.name, self.rep_url, self.rep_url + "blob/main/src/" + file.with_suffix(".tex").name
 
     def get_all_items(self, *suffix, output_file):
 
