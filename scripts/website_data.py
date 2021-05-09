@@ -37,9 +37,9 @@ class GenerateWebsiteData:
 
     def format_item(self, file):
         title = file.name
-        return title, self.img_url + file.name, self.img_url + file.name, title, self.rep_url, self.rep_url + "blob/master/out/" + title
+        return title, self.img_url + file.name, self.img_url + file.name, title, self.rep_url, self.rep_url + "blob/main/src/" + file.with_suffix(".tex").name
 
-    def get_all_items(self, *suffix):
+    def get_all_items(self, *suffix, output_file):
 
         suffix = (".png", ".jpg") if not(suffix) else suffix
 
@@ -50,6 +50,6 @@ class GenerateWebsiteData:
                     item = self.format_item(Path(f))
                     all_items.append(get_item_toml(*item))
 
-        with open("test.toml", 'w') as f:
+        with open(output_file, 'w') as f:
             for item in all_items:
                 f.write(item)

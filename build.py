@@ -9,4 +9,4 @@ img_url = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/"
 
 
 gwd = GenerateWebsiteData(src_dir, out_dir, rep_url, img_url)
-gwd.get_all_items()
+gwd.get_all_items(output_file="website/data/items.toml")
