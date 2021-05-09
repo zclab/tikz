@@ -5,7 +5,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-cone_interse
 alt = "3d-cone_intersection+3d+pgf.lualatex"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/3d-cone_intersection+3d+pgf.lualatex.tex"
- 
+
 [[items]]
 title = "3d-cone+pgf"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-cone+pgf.png"
@@ -13,7 +13,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-cone+pgf.png
 alt = "3d-cone+pgf"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/3d-cone+pgf.tex"
- 
+
 [[items]]
 title = "3d-cube_color_rotated+3d+pgf+foreach+command+define"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-cube_color_rotated+3d+pgf+foreach+command+define.png"
@@ -21,7 +21,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-cube_color_r
 alt = "3d-cube_color_rotated+3d+pgf+foreach+command+define"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/3d-cube_color_rotated+3d+pgf+foreach+command+define.tex"
- 
+
 [[items]]
 title = "3d-cubes_isometric_shaded+3d"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-cubes_isometric_shaded+3d.png"
@@ -29,7 +29,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-cubes_isomet
 alt = "3d-cubes_isometric_shaded+3d"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/3d-cubes_isometric_shaded+3d.tex"
- 
+
 [[items]]
 title = "3d-cylinder-planes+3d"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-cylinder-planes+3d.png"
@@ -37,7 +37,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-cylinder-pla
 alt = "3d-cylinder-planes+3d"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/3d-cylinder-planes+3d.tex"
- 
+
 [[items]]
 title = "3d-gradient-colored"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-gradient-colored.png"
@@ -45,7 +45,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-gradient-col
 alt = "3d-gradient-colored"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/3d-gradient-colored.tex"
- 
+
 [[items]]
 title = "3d-hypersurface-3"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-hypersurface-3.png"
@@ -53,7 +53,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-hypersurface
 alt = "3d-hypersurface-3"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/3d-hypersurface-3.tex"
- 
+
 [[items]]
 title = "3d-physics-jet-cones+3d+physics"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-physics-jet-cones+3d+physics.png"
@@ -61,7 +61,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-physics-jet-
 alt = "3d-physics-jet-cones+3d+physics"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/3d-physics-jet-cones+3d+physics.tex"
- 
+
 [[items]]
 title = "3d-seismic_focal_mechanism+3d+set+foreach+eng"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-seismic_focal_mechanism+3d+set+foreach+eng.png"
@@ -69,7 +69,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-seismic_foca
 alt = "3d-seismic_focal_mechanism+3d+set+foreach+eng"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/3d-seismic_focal_mechanism+3d+set+foreach+eng.tex"
- 
+
 [[items]]
 title = "3d-solid-of-revolution"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-solid-of-revolution.png"
@@ -77,7 +77,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-solid-of-rev
 alt = "3d-solid-of-revolution"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/3d-solid-of-revolution.tex"
- 
+
 [[items]]
 title = "3d-torus+function+3d"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-torus+function+3d.png"
@@ -85,7 +85,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/3d-torus+functi
 alt = "3d-torus+function+3d"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/3d-torus+function+3d.tex"
- 
+
 [[items]]
 title = "ai-artificial_intelligence_aiama_arr"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/ai-artificial_intelligence_aiama_arr.png"
@@ -93,7 +93,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/ai-artificial_i
 alt = "ai-artificial_intelligence_aiama_arr"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/ai-artificial_intelligence_aiama_arr.tex"
- 
+
 [[items]]
 title = "ai-artificial_intelligence_jmccarthy_arr"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/ai-artificial_intelligence_jmccarthy_arr.png"
@@ -101,7 +101,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/ai-artificial_i
 alt = "ai-artificial_intelligence_jmccarthy_arr"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/ai-artificial_intelligence_jmccarthy_arr.tex"
- 
+
 [[items]]
 title = "ai-computational_intelligence-pool,mackworth_arr"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/ai-computational_intelligence-pool,mackworth_arr.png"
@@ -109,7 +109,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/ai-computationa
 alt = "ai-computational_intelligence-pool,mackworth_arr"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/ai-computational_intelligence-pool,mackworth_arr.tex"
- 
+
 [[items]]
 title = "animation-dynamic_labels"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/animation-dynamic_labels.png"
@@ -117,7 +117,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/animation-dynam
 alt = "animation-dynamic_labels"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/animation-dynamic_labels.tex"
- 
+
 [[items]]
 title = "box_arrows+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/box_arrows+diagram.png"
@@ -125,7 +125,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/box_arrows+diag
 alt = "box_arrows+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/box_arrows+diagram.tex"
- 
+
 [[items]]
 title = "circle_custom_with_arcs+symbol+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/circle_custom_with_arcs+symbol+geometry.png"
@@ -133,7 +133,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/circle_custom_w
 alt = "circle_custom_with_arcs+symbol+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/circle_custom_with_arcs+symbol+geometry.tex"
- 
+
 [[items]]
 title = "class_diagram+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/class_diagram+diagram.png"
@@ -141,7 +141,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/class_diagram+d
 alt = "class_diagram+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/class_diagram+diagram.tex"
- 
+
 [[items]]
 title = "colorized_equation+equation"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/colorized_equation+equation.png"
@@ -149,7 +149,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/colorized_equat
 alt = "colorized_equation+equation"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/colorized_equation+equation.tex"
- 
+
 [[items]]
 title = "cubes_factorials+physics+3d"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/cubes_factorials+physics+3d.png"
@@ -157,7 +157,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/cubes_factorial
 alt = "cubes_factorials+physics+3d"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/cubes_factorials+physics+3d.tex"
- 
+
 [[items]]
 title = "custom-use_library+symbol+pkg"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/custom-use_library+symbol+pkg.png"
@@ -165,7 +165,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/custom-use_libr
 alt = "custom-use_library+symbol+pkg"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/custom-use_library+symbol+pkg.tex"
- 
+
 [[items]]
 title = "cylinder_with_two_parameters+geometry+style+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/cylinder_with_two_parameters+geometry+style+learn.png"
@@ -173,7 +173,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/cylinder_with_t
 alt = "cylinder_with_two_parameters+geometry+style+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/cylinder_with_two_parameters+geometry+style+learn.tex"
- 
+
 [[items]]
 title = "doc-ml-cnn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/doc-ml-cnn.png"
@@ -181,7 +181,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/doc-ml-cnn.png"
 alt = "doc-ml-cnn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/doc-ml-cnn.tex"
- 
+
 [[items]]
 title = "doc-ml-single_cnn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/doc-ml-single_cnn.png"
@@ -189,7 +189,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/doc-ml-single_c
 alt = "doc-ml-single_cnn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/doc-ml-single_cnn.tex"
- 
+
 [[items]]
 title = "drawstack+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/drawstack+diagram.png"
@@ -197,7 +197,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/drawstack+diagr
 alt = "drawstack+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/drawstack+diagram.tex"
- 
+
 [[items]]
 title = "elem-10_circles+elem+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-10_circles+elem+foreach.png"
@@ -205,7 +205,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-10_circles
 alt = "elem-10_circles+elem+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-10_circles+elem+foreach.tex"
- 
+
 [[items]]
 title = "elem-3_nodes_triangle+elem+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-3_nodes_triangle+elem+foreach.png"
@@ -213,7 +213,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-3_nodes_tr
 alt = "elem-3_nodes_triangle+elem+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-3_nodes_triangle+elem+foreach.tex"
- 
+
 [[items]]
 title = "elem-add_tikz_symbols_to_block_arr+symbol+diagram+command+style"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-add_tikz_symbols_to_block_arr+symbol+diagram+command+style.png"
@@ -221,7 +221,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-add_tikz_s
 alt = "elem-add_tikz_symbols_to_block_arr+symbol+diagram+command+style"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-add_tikz_symbols_to_block_arr+symbol+diagram+command+style.tex"
- 
+
 [[items]]
 title = "elem-circle_axes_ticks+elem+geometry+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-circle_axes_ticks+elem+geometry+foreach.png"
@@ -229,7 +229,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-circle_axe
 alt = "elem-circle_axes_ticks+elem+geometry+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-circle_axes_ticks+elem+geometry+foreach.tex"
- 
+
 [[items]]
 title = "elem-circle_grided+elem+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-circle_grided+elem+geometry.png"
@@ -237,7 +237,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-circle_gri
 alt = "elem-circle_grided+elem+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-circle_grided+elem+geometry.tex"
- 
+
 [[items]]
 title = "elem-circle_half+elem+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-circle_half+elem+geometry.png"
@@ -245,7 +245,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-circle_hal
 alt = "elem-circle_half+elem+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-circle_half+elem+geometry.tex"
- 
+
 [[items]]
 title = "elem-cube+elem+geometry+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-cube+elem+geometry+foreach.png"
@@ -253,7 +253,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-cube+elem+
 alt = "elem-cube+elem+geometry+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-cube+elem+geometry+foreach.tex"
- 
+
 [[items]]
 title = "elem-cuboid_finer_grid+elem+foreach+command"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-cuboid_finer_grid+elem+foreach+command.png"
@@ -261,7 +261,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-cuboid_fin
 alt = "elem-cuboid_finer_grid+elem+foreach+command"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-cuboid_finer_grid+elem+foreach+command.tex"
- 
+
 [[items]]
 title = "elem-custom-three_objects+symbols+command"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-custom-three_objects+symbols+command.png"
@@ -269,7 +269,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-custom-thr
 alt = "elem-custom-three_objects+symbols+command"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-custom-three_objects+symbols+command.tex"
- 
+
 [[items]]
 title = "elem-cylinder+elem+3d+foreach+function"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-cylinder+elem+3d+foreach+function.png"
@@ -277,7 +277,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-cylinder+e
 alt = "elem-cylinder+elem+3d+foreach+function"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-cylinder+elem+3d+foreach+function.tex"
- 
+
 [[items]]
 title = "elem-draw_circles_through+elem+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-draw_circles_through+elem+geometry.png"
@@ -285,7 +285,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-draw_circl
 alt = "elem-draw_circles_through+elem+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-draw_circles_through+elem+geometry.tex"
- 
+
 [[items]]
 title = "elem-draw_ticks+elem+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-draw_ticks+elem+foreach.png"
@@ -293,7 +293,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-draw_ticks
 alt = "elem-draw_ticks+elem+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-draw_ticks+elem+foreach.tex"
- 
+
 [[items]]
 title = "elem-drawing_inside_box+elem+diagram+symbol"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-drawing_inside_box+elem+diagram+symbol.png"
@@ -301,7 +301,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-drawing_in
 alt = "elem-drawing_inside_box+elem+diagram+symbol"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-drawing_inside_box+elem+diagram+symbol.tex"
- 
+
 [[items]]
 title = "elem-equation+elem+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-equation+elem+foreach.png"
@@ -309,7 +309,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-equation+e
 alt = "elem-equation+elem+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-equation+elem+foreach.tex"
- 
+
 [[items]]
 title = "elem-grid_RBG_draw_boxes+elem+foreach+style"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-grid_RBG_draw_boxes+elem+foreach+style.png"
@@ -317,7 +317,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-grid_RBG_d
 alt = "elem-grid_RBG_draw_boxes+elem+foreach+style"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-grid_RBG_draw_boxes+elem+foreach+style.tex"
- 
+
 [[items]]
 title = "elem-grid_RBG_draw_lines+elem+3d+pgf+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-grid_RBG_draw_lines+elem+3d+pgf+foreach.png"
@@ -325,7 +325,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-grid_RBG_d
 alt = "elem-grid_RBG_draw_lines+elem+3d+pgf+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-grid_RBG_draw_lines+elem+3d+pgf+foreach.tex"
- 
+
 [[items]]
 title = "elem-highlight_curve"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-highlight_curve.png"
@@ -333,7 +333,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-highlight_
 alt = "elem-highlight_curve"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-highlight_curve.tex"
- 
+
 [[items]]
 title = "elem-magnification+elem+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-magnification+elem+geometry.png"
@@ -341,7 +341,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-magnificat
 alt = "elem-magnification+elem+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-magnification+elem+geometry.tex"
- 
+
 [[items]]
 title = "elem-mass_inclined_plane"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-mass_inclined_plane.png"
@@ -349,7 +349,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-mass_incli
 alt = "elem-mass_inclined_plane"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-mass_inclined_plane.tex"
- 
+
 [[items]]
 title = "elem-matrix-as_nodes+elem+matrix"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-matrix-as_nodes+elem+matrix.png"
@@ -357,7 +357,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-matrix-as_
 alt = "elem-matrix-as_nodes+elem+matrix"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-matrix-as_nodes+elem+matrix.tex"
- 
+
 [[items]]
 title = "elem-node_connector+elem+diagram+command+params"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-node_connector+elem+diagram+command+params.png"
@@ -365,7 +365,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-node_conne
 alt = "elem-node_connector+elem+diagram+command+params"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-node_connector+elem+diagram+command+params.tex"
- 
+
 [[items]]
 title = "elem-physics-arrows_to_nodes+elem+phsyics"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-physics-arrows_to_nodes+elem+phsyics.png"
@@ -373,7 +373,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-physics-ar
 alt = "elem-physics-arrows_to_nodes+elem+phsyics"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-physics-arrows_to_nodes+elem+phsyics.tex"
- 
+
 [[items]]
 title = "elem-physics-example_atom+elem+physics"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-physics-example_atom+elem+physics.png"
@@ -381,7 +381,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-physics-ex
 alt = "elem-physics-example_atom+elem+physics"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-physics-example_atom+elem+physics.tex"
- 
+
 [[items]]
 title = "elem-placing_labels_circle"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-placing_labels_circle.png"
@@ -389,7 +389,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-placing_la
 alt = "elem-placing_labels_circle"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-placing_labels_circle.tex"
- 
+
 [[items]]
 title = "elem-placing_labels"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-placing_labels.png"
@@ -397,7 +397,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-placing_la
 alt = "elem-placing_labels"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-placing_labels.tex"
- 
+
 [[items]]
 title = "elem-simple_computations_pentagon+elem+style"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-simple_computations_pentagon+elem+style.png"
@@ -405,7 +405,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-simple_com
 alt = "elem-simple_computations_pentagon+elem+style"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-simple_computations_pentagon+elem+style.tex"
- 
+
 [[items]]
 title = "elem-stacked+elem+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-stacked+elem+diagram.png"
@@ -413,7 +413,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-stacked+el
 alt = "elem-stacked+elem+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-stacked+elem+diagram.tex"
- 
+
 [[items]]
 title = "elem-system_measurement_model+elem+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-system_measurement_model+elem+diagram.png"
@@ -421,7 +421,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-system_mea
 alt = "elem-system_measurement_model+elem+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-system_measurement_model+elem+diagram.tex"
- 
+
 [[items]]
 title = "elem-text_boxes_helpme+elem+diagram+text"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-text_boxes_helpme+elem+diagram+text.png"
@@ -429,7 +429,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-text_boxes
 alt = "elem-text_boxes_helpme+elem+diagram+text"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-text_boxes_helpme+elem+diagram+text.tex"
- 
+
 [[items]]
 title = "elem-tikz-01+elem+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-tikz-01+elem+geometry.png"
@@ -437,7 +437,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-tikz-01+el
 alt = "elem-tikz-01+elem+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-tikz-01+elem+geometry.tex"
- 
+
 [[items]]
 title = "elem-tikz-02+elem+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-tikz-02+elem+geometry.png"
@@ -445,7 +445,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-tikz-02+el
 alt = "elem-tikz-02+elem+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-tikz-02+elem+geometry.tex"
- 
+
 [[items]]
 title = "elem-transparent_circles+multi+pgf+set"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-transparent_circles+multi+pgf+set.png"
@@ -453,7 +453,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-transparen
 alt = "elem-transparent_circles+multi+pgf+set"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-transparent_circles+multi+pgf+set.tex"
- 
+
 [[items]]
 title = "elem-trapezium+elem+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-trapezium+elem+geometry.png"
@@ -461,7 +461,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/elem-trapezium+
 alt = "elem-trapezium+elem+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/elem-trapezium+elem+geometry.tex"
- 
+
 [[items]]
 title = "eng-machanical_system"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/eng-machanical_system.png"
@@ -469,7 +469,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/eng-machanical_
 alt = "eng-machanical_system"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/eng-machanical_system.tex"
- 
+
 [[items]]
 title = "eng-quarter_car_model"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/eng-quarter_car_model.png"
@@ -477,7 +477,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/eng-quarter_car
 alt = "eng-quarter_car_model"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/eng-quarter_car_model.tex"
- 
+
 [[items]]
 title = "eng-spring_mass"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/eng-spring_mass.png"
@@ -485,7 +485,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/eng-spring_mass
 alt = "eng-spring_mass"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/eng-spring_mass.tex"
- 
+
 [[items]]
 title = "fileIO-airfoil_from_data"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/fileIO-airfoil_from_data.png"
@@ -493,7 +493,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/fileIO-airfoil_
 alt = "fileIO-airfoil_from_data"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/fileIO-airfoil_from_data.tex"
- 
+
 [[items]]
 title = "fileIO-circles_from_data"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/fileIO-circles_from_data.png"
@@ -501,7 +501,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/fileIO-circles_
 alt = "fileIO-circles_from_data"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/fileIO-circles_from_data.tex"
- 
+
 [[items]]
 title = "fileIO-plot_curves-read_data+fileio+plot+pgf"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/fileIO-plot_curves-read_data+fileio+plot+pgf.png"
@@ -509,7 +509,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/fileIO-plot_cur
 alt = "fileIO-plot_curves-read_data+fileio+plot+pgf"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/fileIO-plot_curves-read_data+fileio+plot+pgf.tex"
- 
+
 [[items]]
 title = "fileIO-plot-two_plots_same_axis+fileio+pgf"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/fileIO-plot-two_plots_same_axis+fileio+pgf.png"
@@ -517,7 +517,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/fileIO-plot-two
 alt = "fileIO-plot-two_plots_same_axis+fileio+pgf"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/fileIO-plot-two_plots_same_axis+fileio+pgf.tex"
- 
+
 [[items]]
 title = "fileIO-simple_read_coordinates"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/fileIO-simple_read_coordinates.png"
@@ -525,7 +525,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/fileIO-simple_r
 alt = "fileIO-simple_read_coordinates"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/fileIO-simple_read_coordinates.tex"
- 
+
 [[items]]
 title = "fileIO-table-read_data+fileio+pgf+table"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/fileIO-table-read_data+fileio+pgf+table.png"
@@ -533,7 +533,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/fileIO-table-re
 alt = "fileIO-table-read_data+fileio+pgf+table"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/fileIO-table-read_data+fileio+pgf+table.tex"
- 
+
 [[items]]
 title = "fileIO-time-read-data+timeline+fileio+pgf+foreach+text"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/fileIO-time-read-data+timeline+fileio+pgf+foreach+text.png"
@@ -541,7 +541,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/fileIO-time-rea
 alt = "fileIO-time-read-data+timeline+fileio+pgf+foreach+text"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/fileIO-time-read-data+timeline+fileio+pgf+foreach+text.tex"
- 
+
 [[items]]
 title = "flow-android_lifecycle+block+style+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/flow-android_lifecycle+block+style+learn.png"
@@ -549,7 +549,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/flow-android_li
 alt = "flow-android_lifecycle+block+style+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/flow-android_lifecycle+block+style+learn.tex"
- 
+
 [[items]]
 title = "flow-direction_of_arrival+diagram+matrrix+table"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/flow-direction_of_arrival+diagram+matrrix+table.png"
@@ -557,7 +557,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/flow-direction_
 alt = "flow-direction_of_arrival+diagram+matrrix+table"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/flow-direction_of_arrival+diagram+matrrix+table.tex"
- 
+
 [[items]]
 title = "flow-easy_flowchart+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/flow-easy_flowchart+diagram.png"
@@ -565,7 +565,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/flow-easy_flowc
 alt = "flow-easy_flowchart+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/flow-easy_flowchart+diagram.tex"
- 
+
 [[items]]
 title = "flow-flowchart_video+diagram+style"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/flow-flowchart_video+diagram+style.png"
@@ -573,7 +573,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/flow-flowchart_
 alt = "flow-flowchart_video+diagram+style"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/flow-flowchart_video+diagram+style.tex"
- 
+
 [[items]]
 title = "flow-labs_class+diagram+style+pgf+command"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/flow-labs_class+diagram+style+pgf+command.png"
@@ -581,7 +581,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/flow-labs_class
 alt = "flow-labs_class+diagram+style+pgf+command"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/flow-labs_class+diagram+style+pgf+command.tex"
- 
+
 [[items]]
 title = "flow-report_diagrams+diagram+learn+style"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/flow-report_diagrams+diagram+learn+style.png"
@@ -589,7 +589,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/flow-report_dia
 alt = "flow-report_diagrams+diagram+learn+style"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/flow-report_diagrams+diagram+learn+style.tex"
- 
+
 [[items]]
 title = "gears_simple+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/gears_simple+foreach.png"
@@ -597,7 +597,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/gears_simple+fo
 alt = "gears_simple+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/gears_simple+foreach.tex"
- 
+
 [[items]]
 title = "gears+pgf+def"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/gears+pgf+def.png"
@@ -605,7 +605,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/gears+pgf+def.p
 alt = "gears+pgf+def"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/gears+pgf+def.tex"
- 
+
 [[items]]
 title = "geom-circle_bisectors_triangle+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/geom-circle_bisectors_triangle+geometry.png"
@@ -613,7 +613,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/geom-circle_bis
 alt = "geom-circle_bisectors_triangle+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/geom-circle_bisectors_triangle+geometry.tex"
- 
+
 [[items]]
 title = "geom-circle_coordinate_systems+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/geom-circle_coordinate_systems+geometry.png"
@@ -621,7 +621,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/geom-circle_coo
 alt = "geom-circle_coordinate_systems+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/geom-circle_coordinate_systems+geometry.tex"
- 
+
 [[items]]
 title = "geom-ellipse_on_coords+geometry+pgf+def+script"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/geom-ellipse_on_coords+geometry+pgf+def+script.png"
@@ -629,7 +629,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/geom-ellipse_on
 alt = "geom-ellipse_on_coords+geometry+pgf+def+script"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/geom-ellipse_on_coords+geometry+pgf+def+script.tex"
- 
+
 [[items]]
 title = "geom-euclides+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/geom-euclides+geometry.png"
@@ -637,7 +637,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/geom-euclides+g
 alt = "geom-euclides+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/geom-euclides+geometry.tex"
- 
+
 [[items]]
 title = "geom-hyperbola+geometry+physics"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/geom-hyperbola+geometry+physics.png"
@@ -645,7 +645,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/geom-hyperbola+
 alt = "geom-hyperbola+geometry+physics"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/geom-hyperbola+geometry+physics.tex"
- 
+
 [[items]]
 title = "geometric_representation+math+foreach+pgf+scope"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/geometric_representation+math+foreach+pgf+scope.png"
@@ -653,7 +653,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/geometric_repre
 alt = "geometric_representation+math+foreach+pgf+scope"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/geometric_representation+math+foreach+pgf+scope.tex"
- 
+
 [[items]]
 title = "git_dataflow+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/git_dataflow+diagram.png"
@@ -661,7 +661,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/git_dataflow+di
 alt = "git_dataflow+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/git_dataflow+diagram.tex"
- 
+
 [[items]]
 title = "git_workflow+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/git_workflow+diagram.png"
@@ -669,7 +669,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/git_workflow+di
 alt = "git_workflow+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/git_workflow+diagram.tex"
- 
+
 [[items]]
 title = "grid_RBG+3d+foreach+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/grid_RBG+3d+foreach+learn.png"
@@ -677,7 +677,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/grid_RBG+3d+for
 alt = "grid_RBG+3d+foreach+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/grid_RBG+3d+foreach+learn.tex"
- 
+
 [[items]]
 title = "impact-circular_arrows+diagram+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-circular_arrows+diagram+foreach.png"
@@ -685,7 +685,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-circular
 alt = "impact-circular_arrows+diagram+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/impact-circular_arrows+diagram+foreach.tex"
- 
+
 [[items]]
 title = "impact-concentric-blocks+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-concentric-blocks+diagram.png"
@@ -693,7 +693,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-concentr
 alt = "impact-concentric-blocks+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/impact-concentric-blocks+diagram.tex"
- 
+
 [[items]]
 title = "impact-market_sector+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-market_sector+diagram.png"
@@ -701,7 +701,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-market_s
 alt = "impact-market_sector+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/impact-market_sector+diagram.tex"
- 
+
 [[items]]
 title = "impact-os_model_layers"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-os_model_layers.png"
@@ -709,7 +709,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-os_model
 alt = "impact-os_model_layers"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/impact-os_model_layers.tex"
- 
+
 [[items]]
 title = "impact-simulation_abstraction+physics"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-simulation_abstraction+physics.png"
@@ -717,7 +717,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-simulati
 alt = "impact-simulation_abstraction+physics"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/impact-simulation_abstraction+physics.tex"
- 
+
 [[items]]
 title = "impact-supreme_court-2+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-supreme_court-2+diagram.png"
@@ -725,7 +725,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-supreme_
 alt = "impact-supreme_court-2+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/impact-supreme_court-2+diagram.tex"
- 
+
 [[items]]
 title = "impact-supreme_court+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-supreme_court+diagram.png"
@@ -733,7 +733,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-supreme_
 alt = "impact-supreme_court+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/impact-supreme_court+diagram.tex"
- 
+
 [[items]]
 title = "impact-technologies_arrow+matrix+set+command+matrix"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-technologies_arrow+matrix+set+command+matrix.png"
@@ -741,7 +741,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-technolo
 alt = "impact-technologies_arrow+matrix+set+command+matrix"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/impact-technologies_arrow+matrix+set+command+matrix.tex"
- 
+
 [[items]]
 title = "impact-venn+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-venn+diagram.png"
@@ -749,7 +749,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/impact-venn+dia
 alt = "impact-venn+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/impact-venn+diagram.tex"
- 
+
 [[items]]
 title = "inertial_system_color+diagram+pgf+command+def+layer"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/inertial_system_color+diagram+pgf+command+def+layer.png"
@@ -757,7 +757,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/inertial_system
 alt = "inertial_system_color+diagram+pgf+command+def+layer"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/inertial_system_color+diagram+pgf+command+def+layer.tex"
- 
+
 [[items]]
 title = "io-fit+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/io-fit+diagram.png"
@@ -765,7 +765,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/io-fit+diagram.
 alt = "io-fit+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/io-fit+diagram.tex"
- 
+
 [[items]]
 title = "iso-louvre-planes"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-louvre-planes.png"
@@ -773,7 +773,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-louvre-plan
 alt = "iso-louvre-planes"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/iso-louvre-planes.tex"
- 
+
 [[items]]
 title = "iso-network-ex_doc_4-13+elem+network"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-network-ex_doc_4-13+elem+network.png"
@@ -781,7 +781,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-network-ex_
 alt = "iso-network-ex_doc_4-13+elem+network"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/iso-network-ex_doc_4-13+elem+network.tex"
- 
+
 [[items]]
 title = "iso-planes_multiple_ocean+projection+style+scope+slant"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-planes_multiple_ocean+projection+style+scope+slant.png"
@@ -789,7 +789,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-planes_mult
 alt = "iso-planes_multiple_ocean+projection+style+scope+slant"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/iso-planes_multiple_ocean+projection+style+scope+slant.tex"
- 
+
 [[items]]
 title = "iso-planes-multidimensional-array-inclined"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-planes-multidimensional-array-inclined.png"
@@ -797,7 +797,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-planes-mult
 alt = "iso-planes-multidimensional-array-inclined"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/iso-planes-multidimensional-array-inclined.tex"
- 
+
 [[items]]
 title = "iso-planes-multidimensional-array"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-planes-multidimensional-array.png"
@@ -805,7 +805,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-planes-mult
 alt = "iso-planes-multidimensional-array"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/iso-planes-multidimensional-array.tex"
- 
+
 [[items]]
 title = "iso-planes-polarization+3d+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-planes-polarization+3d+foreach.png"
@@ -813,7 +813,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-planes-pola
 alt = "iso-planes-polarization+3d+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/iso-planes-polarization+3d+foreach.tex"
- 
+
 [[items]]
 title = "iso-swan_wave_model-iso-off"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-swan_wave_model-iso-off.png"
@@ -821,7 +821,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-swan_wave_m
 alt = "iso-swan_wave_model-iso-off"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/iso-swan_wave_model-iso-off.tex"
- 
+
 [[items]]
 title = "iso-swan_wave_model-iso-on"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-swan_wave_model-iso-on.png"
@@ -829,7 +829,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/iso-swan_wave_m
 alt = "iso-swan_wave_model-iso-on"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/iso-swan_wave_model-iso-on.tex"
- 
+
 [[items]]
 title = "kalman+diagram+set"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/kalman+diagram+set.png"
@@ -837,7 +837,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/kalman+diagram+
 alt = "kalman+diagram+set"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/kalman+diagram+set.tex"
- 
+
 [[items]]
 title = "mammography_bayes+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mammography_bayes+diagram.png"
@@ -845,7 +845,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mammography_bay
 alt = "mammography_bayes+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mammography_bayes+diagram.tex"
- 
+
 [[items]]
 title = "mapper-reducer"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mapper-reducer.png"
@@ -853,7 +853,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mapper-reducer.
 alt = "mapper-reducer"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mapper-reducer.tex"
- 
+
 [[items]]
 title = "matrix-highlighting"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/matrix-highlighting.png"
@@ -861,7 +861,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/matrix-highligh
 alt = "matrix-highlighting"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/matrix-highlighting.tex"
- 
+
 [[items]]
 title = "matrix-product"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/matrix-product.png"
@@ -869,7 +869,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/matrix-product.
 alt = "matrix-product"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/matrix-product.tex"
- 
+
 [[items]]
 title = "matrix-spreadsheet_formula+matrix+command"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/matrix-spreadsheet_formula+matrix+command.png"
@@ -877,7 +877,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/matrix-spreadsh
 alt = "matrix-spreadsheet_formula+matrix+command"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/matrix-spreadsheet_formula+matrix+command.tex"
- 
+
 [[items]]
 title = "mind_2nd_level_concentric+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_2nd_level_concentric+mindmap.png"
@@ -885,7 +885,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_2nd_level_
 alt = "mind_2nd_level_concentric+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_2nd_level_concentric+mindmap.tex"
- 
+
 [[items]]
 title = "mind_2nd_level_reactangular_frame+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_2nd_level_reactangular_frame+mindmap.png"
@@ -893,7 +893,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_2nd_level_
 alt = "mind_2nd_level_reactangular_frame+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_2nd_level_reactangular_frame+mindmap.tex"
- 
+
 [[items]]
 title = "mind_adjust_keys+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_adjust_keys+mindmap.png"
@@ -901,7 +901,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_adjust_key
 alt = "mind_adjust_keys+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_adjust_keys+mindmap.tex"
- 
+
 [[items]]
 title = "mind_child_manipulation+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_child_manipulation+mindmap.png"
@@ -909,7 +909,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_child_mani
 alt = "mind_child_manipulation+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_child_manipulation+mindmap.tex"
- 
+
 [[items]]
 title = "mind_children_two+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_children_two+mindmap.png"
@@ -917,7 +917,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_children_t
 alt = "mind_children_two+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_children_two+mindmap.tex"
- 
+
 [[items]]
 title = "mind_circle_connection+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_circle_connection+mindmap.png"
@@ -925,7 +925,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_circle_con
 alt = "mind_circle_connection+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_circle_connection+mindmap.tex"
- 
+
 [[items]]
 title = "mind_clip+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_clip+mindmap.png"
@@ -933,7 +933,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_clip+mindm
 alt = "mind_clip+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_clip+mindmap.tex"
- 
+
 [[items]]
 title = "mind_computer_science+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_computer_science+mindmap.png"
@@ -941,7 +941,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_computer_s
 alt = "mind_computer_science+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_computer_science+mindmap.tex"
- 
+
 [[items]]
 title = "mind_connecting_concepts+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_connecting_concepts+mindmap.png"
@@ -949,7 +949,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_connecting
 alt = "mind_connecting_concepts+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_connecting_concepts+mindmap.tex"
- 
+
 [[items]]
 title = "mind_fixed+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_fixed+mindmap.png"
@@ -957,7 +957,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_fixed+mind
 alt = "mind_fixed+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_fixed+mindmap.tex"
- 
+
 [[items]]
 title = "mind_hyperlinks+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_hyperlinks+mindmap.png"
@@ -965,7 +965,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_hyperlinks
 alt = "mind_hyperlinks+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_hyperlinks+mindmap.tex"
- 
+
 [[items]]
 title = "mind_long_text_boxes-fixed+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_long_text_boxes-fixed+mindmap.png"
@@ -973,7 +973,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_long_text_
 alt = "mind_long_text_boxes-fixed+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_long_text_boxes-fixed+mindmap.tex"
- 
+
 [[items]]
 title = "mind_optional_argument+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_optional_argument+mindmap.png"
@@ -981,7 +981,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_optional_a
 alt = "mind_optional_argument+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_optional_argument+mindmap.tex"
- 
+
 [[items]]
 title = "mind_scientific_interactions+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_scientific_interactions+mindmap.png"
@@ -989,7 +989,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_scientific
 alt = "mind_scientific_interactions+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_scientific_interactions+mindmap.tex"
- 
+
 [[items]]
 title = "mind_shaded+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_shaded+mindmap.png"
@@ -997,7 +997,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_shaded+min
 alt = "mind_shaded+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_shaded+mindmap.tex"
- 
+
 [[items]]
 title = "mind_specific_distance+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_specific_distance+mindmap.png"
@@ -1005,7 +1005,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_specific_d
 alt = "mind_specific_distance+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_specific_distance+mindmap.tex"
- 
+
 [[items]]
 title = "mind_thicker_connectors+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_thicker_connectors+mindmap.png"
@@ -1013,7 +1013,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_thicker_co
 alt = "mind_thicker_connectors+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_thicker_connectors+mindmap.tex"
- 
+
 [[items]]
 title = "mind_tutorials_videos+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_tutorials_videos+mindmap.png"
@@ -1021,7 +1021,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_tutorials_
 alt = "mind_tutorials_videos+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_tutorials_videos+mindmap.tex"
- 
+
 [[items]]
 title = "mind_two_connected_roots+mindmap"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_two_connected_roots+mindmap.png"
@@ -1029,7 +1029,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/mind_two_connec
 alt = "mind_two_connected_roots+mindmap"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/mind_two_connected_roots+mindmap.tex"
- 
+
 [[items]]
 title = "ml_evolutionary+scope"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/ml_evolutionary+scope.png"
@@ -1037,7 +1037,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/ml_evolutionary
 alt = "ml_evolutionary+scope"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/ml_evolutionary+scope.tex"
- 
+
 [[items]]
 title = "ml_feature_selection"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/ml_feature_selection.png"
@@ -1045,7 +1045,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/ml_feature_sele
 alt = "ml_feature_selection"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/ml_feature_selection.tex"
- 
+
 [[items]]
 title = "ml-cnn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/ml-cnn.png"
@@ -1053,7 +1053,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/ml-cnn.png"
 alt = "ml-cnn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/ml-cnn.tex"
- 
+
 [[items]]
 title = "ml-single_cnn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/ml-single_cnn.png"
@@ -1061,7 +1061,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/ml-single_cnn.p
 alt = "ml-single_cnn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/ml-single_cnn.tex"
- 
+
 [[items]]
 title = "multiline-flowchart"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/multiline-flowchart.png"
@@ -1069,7 +1069,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/multiline-flowc
 alt = "multiline-flowchart"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/multiline-flowchart.tex"
- 
+
 [[items]]
 title = "multiple_block_connections-101+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/multiple_block_connections-101+diagram.png"
@@ -1077,7 +1077,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/multiple_block_
 alt = "multiple_block_connections-101+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/multiple_block_connections-101+diagram.tex"
- 
+
 [[items]]
 title = "multiple_blocks_interconnection+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/multiple_blocks_interconnection+diagram.png"
@@ -1085,7 +1085,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/multiple_blocks
 alt = "multiple_blocks_interconnection+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/multiple_blocks_interconnection+diagram.tex"
- 
+
 [[items]]
 title = "nested+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nested+diagram.png"
@@ -1093,7 +1093,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nested+diagram.
 alt = "nested+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nested+diagram.tex"
- 
+
 [[items]]
 title = "network-complex-networks-only-layer1"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/network-complex-networks-only-layer1.png"
@@ -1101,7 +1101,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/network-complex
 alt = "network-complex-networks-only-layer1"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/network-complex-networks-only-layer1.tex"
- 
+
 [[items]]
 title = "network-complex-networks"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/network-complex-networks.png"
@@ -1109,7 +1109,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/network-complex
 alt = "network-complex-networks"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/network-complex-networks.tex"
- 
+
 [[items]]
 title = "network-layers-and-layouts"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/network-layers-and-layouts.png"
@@ -1117,7 +1117,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/network-layers-
 alt = "network-layers-and-layouts"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/network-layers-and-layouts.tex"
- 
+
 [[items]]
 title = "network-multilayer"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/network-multilayer.png"
@@ -1125,7 +1125,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/network-multila
 alt = "network-multilayer"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/network-multilayer.tex"
- 
+
 [[items]]
 title = "network-read-csv"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/network-read-csv.png"
@@ -1133,7 +1133,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/network-read-cs
 alt = "network-read-csv"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/network-read-csv.tex"
- 
+
 [[items]]
 title = "nn_2figs_1page+neuralnet"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn_2figs_1page+neuralnet.png"
@@ -1141,7 +1141,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn_2figs_1page+
 alt = "nn_2figs_1page+neuralnet"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn_2figs_1page+neuralnet.tex"
- 
+
 [[items]]
 title = "nn_3in_3_h_3_out+neuralnet"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn_3in_3_h_3_out+neuralnet.png"
@@ -1149,7 +1149,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn_3in_3_h_3_ou
 alt = "nn_3in_3_h_3_out+neuralnet"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn_3in_3_h_3_out+neuralnet.tex"
- 
+
 [[items]]
 title = "nn_back_propagation+neuralnet"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn_back_propagation+neuralnet.png"
@@ -1157,7 +1157,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn_back_propaga
 alt = "nn_back_propagation+neuralnet"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn_back_propagation+neuralnet.tex"
- 
+
 [[items]]
 title = "nn_encoder_2pages_3figs_+neuralnet"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn_encoder_2pages_3figs_+neuralnet.png"
@@ -1165,7 +1165,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn_encoder_2pag
 alt = "nn_encoder_2pages_3figs_+neuralnet"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn_encoder_2pages_3figs_+neuralnet.tex"
- 
+
 [[items]]
 title = "nn_neuron+neuralnet"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn_neuron+neuralnet.png"
@@ -1173,7 +1173,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn_neuron+neura
 alt = "nn_neuron+neuralnet"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn_neuron+neuralnet.tex"
- 
+
 [[items]]
 title = "nn_signal_flow+neuralnet"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn_signal_flow+neuralnet.png"
@@ -1181,7 +1181,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn_signal_flow+
 alt = "nn_signal_flow+neuralnet"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn_signal_flow+neuralnet.tex"
- 
+
 [[items]]
 title = "nn-02_auto_net+neuralnet+foreach+pgf+style+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-02_auto_net+neuralnet+foreach+pgf+style+learn.png"
@@ -1189,7 +1189,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-02_auto_net+
 alt = "nn-02_auto_net+neuralnet+foreach+pgf+style+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-02_auto_net+neuralnet+foreach+pgf+style+learn.tex"
- 
+
 [[items]]
 title = "nn-03_auto_net+neuralnet+foreach+style+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-03_auto_net+neuralnet+foreach+style+learn.png"
@@ -1197,7 +1197,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-03_auto_net+
 alt = "nn-03_auto_net+neuralnet+foreach+style+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-03_auto_net+neuralnet+foreach+style+learn.tex"
- 
+
 [[items]]
 title = "nn-04_auto_net+neuralnet+matrix+style+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-04_auto_net+neuralnet+matrix+style+foreach.png"
@@ -1205,7 +1205,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-04_auto_net+
 alt = "nn-04_auto_net+neuralnet+matrix+style+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-04_auto_net+neuralnet+matrix+style+foreach.tex"
- 
+
 [[items]]
 title = "nn-05_auto_net_arr+neuralnet+style+foreach+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-05_auto_net_arr+neuralnet+style+foreach+learn.png"
@@ -1213,7 +1213,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-05_auto_net_
 alt = "nn-05_auto_net_arr+neuralnet+style+foreach+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-05_auto_net_arr+neuralnet+style+foreach+learn.tex"
- 
+
 [[items]]
 title = "nn-06_manual_net_color+neuralnet+foreach+style"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-06_manual_net_color+neuralnet+foreach+style.png"
@@ -1221,7 +1221,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-06_manual_ne
 alt = "nn-06_manual_net_color+neuralnet+foreach+style"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-06_manual_net_color+neuralnet+foreach+style.tex"
- 
+
 [[items]]
 title = "nn-08-tkz-berge-01+neuralnet+scope+foreach+pkg"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-08-tkz-berge-01+neuralnet+scope+foreach+pkg.png"
@@ -1229,7 +1229,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-08-tkz-berge
 alt = "nn-08-tkz-berge-01+neuralnet+scope+foreach+pkg"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-08-tkz-berge-01+neuralnet+scope+foreach+pkg.tex"
- 
+
 [[items]]
 title = "nn-09_manual_net+neuralnet+foreach+scope"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-09_manual_net+neuralnet+foreach+scope.png"
@@ -1237,7 +1237,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-09_manual_ne
 alt = "nn-09_manual_net+neuralnet+foreach+scope"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-09_manual_net+neuralnet+foreach+scope.tex"
- 
+
 [[items]]
 title = "nn-1h_manual_net+neuralnet+style+matrix+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-1h_manual_net+neuralnet+style+matrix+foreach.png"
@@ -1245,7 +1245,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-1h_manual_ne
 alt = "nn-1h_manual_net+neuralnet+style+matrix+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-1h_manual_net+neuralnet+style+matrix+foreach.tex"
- 
+
 [[items]]
 title = "nn-2_summarized+neuralnet+style+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-2_summarized+neuralnet+style+learn.png"
@@ -1253,7 +1253,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-2_summarized
 alt = "nn-2_summarized+neuralnet+style+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-2_summarized+neuralnet+style+learn.tex"
- 
+
 [[items]]
 title = "nn-2h_manual_net-color+neuralnet+set+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-2h_manual_net-color+neuralnet+set+foreach.png"
@@ -1261,7 +1261,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-2h_manual_ne
 alt = "nn-2h_manual_net-color+neuralnet+set+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-2h_manual_net-color+neuralnet+set+foreach.tex"
- 
+
 [[items]]
 title = "nn-a3c_manual_net_arr+neuralnet"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-a3c_manual_net_arr+neuralnet.png"
@@ -1269,7 +1269,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-a3c_manual_n
 alt = "nn-a3c_manual_net_arr+neuralnet"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-a3c_manual_net_arr+neuralnet.tex"
- 
+
 [[items]]
 title = "nn-auto_net_4h_arr+neuralnet+matrix+foreach+style+scope"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-auto_net_4h_arr+neuralnet+matrix+foreach+style+scope.png"
@@ -1277,7 +1277,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-auto_net_4h_
 alt = "nn-auto_net_4h_arr+neuralnet+matrix+foreach+style+scope"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-auto_net_4h_arr+neuralnet+matrix+foreach+style+scope.tex"
- 
+
 [[items]]
 title = "nn-auto_net_arr+neuralnet+foreach+style+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-auto_net_arr+neuralnet+foreach+style+foreach.png"
@@ -1285,7 +1285,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-auto_net_arr
 alt = "nn-auto_net_arr+neuralnet+foreach+style+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-auto_net_arr+neuralnet+foreach+style+foreach.tex"
- 
+
 [[items]]
 title = "nn-auto_net_bias_arr+neuralnet+learn+foreach+def+command+ifnum+style"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-auto_net_bias_arr+neuralnet+learn+foreach+def+command+ifnum+style.png"
@@ -1293,7 +1293,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-auto_net_bia
 alt = "nn-auto_net_bias_arr+neuralnet+learn+foreach+def+command+ifnum+style"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-auto_net_bias_arr+neuralnet+learn+foreach+def+command+ifnum+style.tex"
- 
+
 [[items]]
 title = "nn-auto_net_color+neuralnet+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-auto_net_color+neuralnet+foreach.png"
@@ -1301,7 +1301,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-auto_net_col
 alt = "nn-auto_net_color+neuralnet+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-auto_net_color+neuralnet+foreach.tex"
- 
+
 [[items]]
 title = "nn-auto_net_icon+neuralnet+style+foreach+set+function+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-auto_net_icon+neuralnet+style+foreach+set+function+learn.png"
@@ -1309,7 +1309,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-auto_net_ico
 alt = "nn-auto_net_icon+neuralnet+style+foreach+set+function+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-auto_net_icon+neuralnet+style+foreach+set+function+learn.tex"
- 
+
 [[items]]
 title = "nn-block_diagram-multilayer_perceptron+neuralnet+style+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-block_diagram-multilayer_perceptron+neuralnet+style+learn.png"
@@ -1317,7 +1317,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-block_diagra
 alt = "nn-block_diagram-multilayer_perceptron+neuralnet+style+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-block_diagram-multilayer_perceptron+neuralnet+style+learn.tex"
- 
+
 [[items]]
 title = "nn-block_diagram-perceptron+neuralnet+set+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-block_diagram-perceptron+neuralnet+set+learn.png"
@@ -1325,7 +1325,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-block_diagra
 alt = "nn-block_diagram-perceptron+neuralnet+set+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-block_diagram-perceptron+neuralnet+set+learn.tex"
- 
+
 [[items]]
 title = "nn-discriminator+neuralnet+matrix+foreach+style"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-discriminator+neuralnet+matrix+foreach+style.png"
@@ -1333,7 +1333,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-discriminato
 alt = "nn-discriminator+neuralnet+matrix+foreach+style"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-discriminator+neuralnet+matrix+foreach+style.tex"
- 
+
 [[items]]
 title = "nn-gan_complete+neuralnet"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-gan_complete+neuralnet.png"
@@ -1341,7 +1341,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-gan_complete
 alt = "nn-gan_complete+neuralnet"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-gan_complete+neuralnet.tex"
- 
+
 [[items]]
 title = "nn-gan_parts+neuralnet"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-gan_parts+neuralnet.png"
@@ -1349,7 +1349,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-gan_parts+ne
 alt = "nn-gan_parts+neuralnet"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-gan_parts+neuralnet.tex"
- 
+
 [[items]]
 title = "nn-gan_two_gan_types+neuralnet"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-gan_two_gan_types+neuralnet.png"
@@ -1357,7 +1357,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-gan_two_gan_
 alt = "nn-gan_two_gan_types+neuralnet"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-gan_two_gan_types+neuralnet.tex"
- 
+
 [[items]]
 title = "nn-gan_vertical+neuralnet"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-gan_vertical+neuralnet.png"
@@ -1365,7 +1365,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-gan_vertical
 alt = "nn-gan_vertical+neuralnet"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-gan_vertical+neuralnet.tex"
- 
+
 [[items]]
 title = "nn-generative_adversarial_network_manual_net+neuralnet"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-generative_adversarial_network_manual_net+neuralnet.png"
@@ -1373,7 +1373,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-generative_a
 alt = "nn-generative_adversarial_network_manual_net+neuralnet"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-generative_adversarial_network_manual_net+neuralnet.tex"
- 
+
 [[items]]
 title = "nn-generator+neuralnet+matrix"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-generator+neuralnet+matrix.png"
@@ -1381,7 +1381,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-generator+ne
 alt = "nn-generator+neuralnet+matrix"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-generator+neuralnet+matrix.tex"
- 
+
 [[items]]
 title = "nn-hopfield_auto_net+neuralnet+foreach+scope+learn+style+command"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-hopfield_auto_net+neuralnet+foreach+scope+learn+style+command.png"
@@ -1389,7 +1389,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-hopfield_aut
 alt = "nn-hopfield_auto_net+neuralnet+foreach+scope+learn+style+command"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-hopfield_auto_net+neuralnet+foreach+scope+learn+style+command.tex"
- 
+
 [[items]]
 title = "nn-neural_network-1h+neuralnet+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-neural_network-1h+neuralnet+foreach.png"
@@ -1397,7 +1397,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-neural_netwo
 alt = "nn-neural_network-1h+neuralnet+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-neural_network-1h+neuralnet+foreach.tex"
- 
+
 [[items]]
 title = "nn-stacked_blocks+neuralnet+3d+def+pgf+set+style"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-stacked_blocks+neuralnet+3d+def+pgf+set+style.png"
@@ -1405,7 +1405,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-stacked_bloc
 alt = "nn-stacked_blocks+neuralnet+3d+def+pgf+set+style"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-stacked_blocks+neuralnet+3d+def+pgf+set+style.tex"
- 
+
 [[items]]
 title = "nn-SVM_manual+neuralnet"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-SVM_manual+neuralnet.png"
@@ -1413,7 +1413,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/nn-SVM_manual+n
 alt = "nn-SVM_manual+neuralnet"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/nn-SVM_manual+neuralnet.tex"
- 
+
 [[items]]
 title = "noise+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/noise+diagram.png"
@@ -1421,7 +1421,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/noise+diagram.p
 alt = "noise+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/noise+diagram.tex"
- 
+
 [[items]]
 title = "paper_folding+misc+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/paper_folding+misc+foreach.png"
@@ -1429,7 +1429,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/paper_folding+m
 alt = "paper_folding+misc+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/paper_folding+misc+foreach.tex"
- 
+
 [[items]]
 title = "physics-diagram-handshake"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-diagram-handshake.png"
@@ -1437,7 +1437,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-diagram
 alt = "physics-diagram-handshake"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/physics-diagram-handshake.tex"
- 
+
 [[items]]
 title = "physics-impact-particles_table"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-impact-particles_table.png"
@@ -1445,7 +1445,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-impact-
 alt = "physics-impact-particles_table"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/physics-impact-particles_table.tex"
- 
+
 [[items]]
 title = "physics-moon_synodic_period"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-moon_synodic_period.png"
@@ -1453,7 +1453,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-moon_sy
 alt = "physics-moon_synodic_period"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/physics-moon_synodic_period.tex"
- 
+
 [[items]]
 title = "physics-poincare+diagram+foreach+set+command"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-poincare+diagram+foreach+set+command.png"
@@ -1461,7 +1461,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-poincar
 alt = "physics-poincare+diagram+foreach+set+command"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/physics-poincare+diagram+foreach+set+command.tex"
- 
+
 [[items]]
 title = "physics-solenoid"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-solenoid.png"
@@ -1469,7 +1469,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-solenoi
 alt = "physics-solenoid"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/physics-solenoid.tex"
- 
+
 [[items]]
 title = "physics-tau_decay_signatures+physics"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-tau_decay_signatures+physics.png"
@@ -1477,7 +1477,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-tau_dec
 alt = "physics-tau_decay_signatures+physics"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/physics-tau_decay_signatures+physics.tex"
- 
+
 [[items]]
 title = "physics-torricelli"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-torricelli.png"
@@ -1485,7 +1485,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-torrice
 alt = "physics-torricelli"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/physics-torricelli.tex"
- 
+
 [[items]]
 title = "physics-trajectory"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-trajectory.png"
@@ -1493,7 +1493,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-traject
 alt = "physics-trajectory"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/physics-trajectory.tex"
- 
+
 [[items]]
 title = "physics-vanderpol_oscilator"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-vanderpol_oscilator.png"
@@ -1501,7 +1501,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/physics-vanderp
 alt = "physics-vanderpol_oscilator"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/physics-vanderpol_oscilator.tex"
- 
+
 [[items]]
 title = "pirates-games"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/pirates-games.png"
@@ -1509,7 +1509,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/pirates-games.p
 alt = "pirates-games"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/pirates-games.tex"
- 
+
 [[items]]
 title = "plot-curves-frequency_modulation+physics"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-curves-frequency_modulation+physics.png"
@@ -1517,7 +1517,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-curves-fre
 alt = "plot-curves-frequency_modulation+physics"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/plot-curves-frequency_modulation+physics.tex"
- 
+
 [[items]]
 title = "plot-curves-is_lm+plot+command"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-curves-is_lm+plot+command.png"
@@ -1525,7 +1525,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-curves-is_
 alt = "plot-curves-is_lm+plot+command"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/plot-curves-is_lm+plot+command.tex"
- 
+
 [[items]]
 title = "plot-derivatives+plot"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-derivatives+plot.png"
@@ -1533,7 +1533,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-derivative
 alt = "plot-derivatives+plot"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/plot-derivatives+plot.tex"
- 
+
 [[items]]
 title = "plot-electromagnetic_wave+physics"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-electromagnetic_wave+physics.png"
@@ -1541,7 +1541,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-electromag
 alt = "plot-electromagnetic_wave+physics"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/plot-electromagnetic_wave+physics.tex"
- 
+
 [[items]]
 title = "plot-filled_curve+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-filled_curve+geometry.png"
@@ -1549,7 +1549,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-filled_cur
 alt = "plot-filled_curve+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/plot-filled_curve+geometry.tex"
- 
+
 [[items]]
 title = "plot-intersections+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-intersections+geometry.png"
@@ -1557,7 +1557,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-intersecti
 alt = "plot-intersections+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/plot-intersections+geometry.tex"
- 
+
 [[items]]
 title = "plot-linear-regression+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-linear-regression+geometry.png"
@@ -1565,7 +1565,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-linear-reg
 alt = "plot-linear-regression+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/plot-linear-regression+geometry.tex"
- 
+
 [[items]]
 title = "plot-mesh+3d+pgf+function"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-mesh+3d+pgf+function.png"
@@ -1573,7 +1573,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-mesh+3d+pg
 alt = "plot-mesh+3d+pgf+function"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/plot-mesh+3d+pgf+function.tex"
- 
+
 [[items]]
 title = "plot-physics-functions"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-physics-functions.png"
@@ -1581,7 +1581,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-physics-fu
 alt = "plot-physics-functions"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/plot-physics-functions.tex"
- 
+
 [[items]]
 title = "plot-regression+geometry"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-regression+geometry.png"
@@ -1589,7 +1589,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-regression
 alt = "plot-regression+geometry"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/plot-regression+geometry.tex"
- 
+
 [[items]]
 title = "plot-shading_regions+geometry+pgf+command+def"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-shading_regions+geometry+pgf+command+def.png"
@@ -1597,7 +1597,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-shading_re
 alt = "plot-shading_regions+geometry+pgf+command+def"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/plot-shading_regions+geometry+pgf+command+def.tex"
- 
+
 [[items]]
 title = "plot-spherical_coords+physics+3d"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-spherical_coords+physics+3d.png"
@@ -1605,7 +1605,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/plot-spherical_
 alt = "plot-spherical_coords+physics+3d"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/plot-spherical_coords+physics+3d.tex"
- 
+
 [[items]]
 title = "porter_model+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/porter_model+diagram.png"
@@ -1613,7 +1613,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/porter_model+di
 alt = "porter_model+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/porter_model+diagram.tex"
- 
+
 [[items]]
 title = "positioning_blocks+diagram+foreach+scope+set+frame"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/positioning_blocks+diagram+foreach+scope+set+frame.png"
@@ -1621,7 +1621,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/positioning_blo
 alt = "positioning_blocks+diagram+foreach+scope+set+frame"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/positioning_blocks+diagram+foreach+scope+set+frame.tex"
- 
+
 [[items]]
 title = "radix_signal_flow+math+diagram+foreach+style+counter"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/radix_signal_flow+math+diagram+foreach+style+counter.png"
@@ -1629,7 +1629,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/radix_signal_fl
 alt = "radix_signal_flow+math+diagram+foreach+style+counter"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/radix_signal_flow+math+diagram+foreach+style+counter.tex"
- 
+
 [[items]]
 title = "scenario_tree+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/scenario_tree+diagram.png"
@@ -1637,7 +1637,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/scenario_tree+d
 alt = "scenario_tree+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/scenario_tree+diagram.tex"
- 
+
 [[items]]
 title = "server_player+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/server_player+diagram.png"
@@ -1645,7 +1645,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/server_player+d
 alt = "server_player+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/server_player+diagram.tex"
- 
+
 [[items]]
 title = "simple-right+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/simple-right+diagram.png"
@@ -1653,7 +1653,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/simple-right+di
 alt = "simple-right+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/simple-right+diagram.tex"
- 
+
 [[items]]
 title = "simple-wrong+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/simple-wrong+diagram.png"
@@ -1661,7 +1661,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/simple-wrong+di
 alt = "simple-wrong+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/simple-wrong+diagram.tex"
- 
+
 [[items]]
 title = "steps+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/steps+diagram.png"
@@ -1669,7 +1669,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/steps+diagram.p
 alt = "steps+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/steps+diagram.tex"
- 
+
 [[items]]
 title = "table-color"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/table-color.png"
@@ -1677,7 +1677,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/table-color.png
 alt = "table-color"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/table-color.tex"
- 
+
 [[items]]
 title = "table-comparison-many"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/table-comparison-many.png"
@@ -1685,7 +1685,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/table-compariso
 alt = "table-comparison-many"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/table-comparison-many.tex"
- 
+
 [[items]]
 title = "table-comparison-med"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/table-comparison-med.png"
@@ -1693,7 +1693,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/table-compariso
 alt = "table-comparison-med"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/table-comparison-med.tex"
- 
+
 [[items]]
 title = "table-comparison-minimal"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/table-comparison-minimal.png"
@@ -1701,7 +1701,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/table-compariso
 alt = "table-comparison-minimal"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/table-comparison-minimal.tex"
- 
+
 [[items]]
 title = "table-strips"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/table-strips.png"
@@ -1709,7 +1709,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/table-strips.pn
 alt = "table-strips"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/table-strips.tex"
- 
+
 [[items]]
 title = "time-1990-2010-arr+timeline+foreach+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-1990-2010-arr+timeline+foreach+learn.png"
@@ -1717,7 +1717,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-1990-2010-
 alt = "time-1990-2010-arr+timeline+foreach+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-1990-2010-arr+timeline+foreach+learn.tex"
- 
+
 [[items]]
 title = "time-added-dots+timeline+style+text"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-added-dots+timeline+style+text.png"
@@ -1725,7 +1725,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-added-dots
 alt = "time-added-dots+timeline+style+text"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-added-dots+timeline+style+text.tex"
- 
+
 [[items]]
 title = "time-angling-text-1+timeline+foreach+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-angling-text-1+timeline+foreach+learn.png"
@@ -1733,7 +1733,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-angling-te
 alt = "time-angling-text-1+timeline+foreach+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-angling-text-1+timeline+foreach+learn.tex"
- 
+
 [[items]]
 title = "time-angling-text-2+timeline+foreach+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-angling-text-2+timeline+foreach+learn.png"
@@ -1741,7 +1741,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-angling-te
 alt = "time-angling-text-2+timeline+foreach+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-angling-text-2+timeline+foreach+learn.tex"
- 
+
 [[items]]
 title = "time-angling-text-3+timeline+foreach+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-angling-text-3+timeline+foreach+learn.png"
@@ -1749,7 +1749,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-angling-te
 alt = "time-angling-text-3+timeline+foreach+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-angling-text-3+timeline+foreach+learn.tex"
- 
+
 [[items]]
 title = "time-annuity+timeline+foreach+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-annuity+timeline+foreach+learn.png"
@@ -1757,7 +1757,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-annuity+ti
 alt = "time-annuity+timeline+foreach+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-annuity+timeline+foreach+learn.tex"
- 
+
 [[items]]
 title = "time-arrows_to_nodes-arr+timeline+tree+scope+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-arrows_to_nodes-arr+timeline+tree+scope+learn.png"
@@ -1765,7 +1765,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-arrows_to_
 alt = "time-arrows_to_nodes-arr+timeline+tree+scope+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-arrows_to_nodes-arr+timeline+tree+scope+learn.tex"
- 
+
 [[items]]
 title = "time-arrows-circles+timeline+pgf+set"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-arrows-circles+timeline+pgf+set.png"
@@ -1773,7 +1773,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-arrows-cir
 alt = "time-arrows-circles+timeline+pgf+set"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-arrows-circles+timeline+pgf+set.tex"
- 
+
 [[items]]
 title = "time-arrows-on-periods+timeline+foreach+style+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-arrows-on-periods+timeline+foreach+style+learn.png"
@@ -1781,7 +1781,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-arrows-on-
 alt = "time-arrows-on-periods+timeline+foreach+style+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-arrows-on-periods+timeline+foreach+style+learn.tex"
- 
+
 [[items]]
 title = "time-auto_time_scale+timeline+foreach+pgf"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-auto_time_scale+timeline+foreach+pgf.png"
@@ -1789,7 +1789,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-auto_time_
 alt = "time-auto_time_scale+timeline+foreach+pgf"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-auto_time_scale+timeline+foreach+pgf.tex"
- 
+
 [[items]]
 title = "time-biographical-cornerstones-arr+timeline+style+learn+text"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-biographical-cornerstones-arr+timeline+style+learn+text.png"
@@ -1797,7 +1797,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-biographic
 alt = "time-biographical-cornerstones-arr+timeline+style+learn+text"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-biographical-cornerstones-arr+timeline+style+learn+text.tex"
- 
+
 [[items]]
 title = "time-brace-and-dots-arr+timeline+style+text"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-brace-and-dots-arr+timeline+style+text.png"
@@ -1805,7 +1805,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-brace-and-
 alt = "time-brace-and-dots-arr+timeline+style+text"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-brace-and-dots-arr+timeline+style+text.tex"
- 
+
 [[items]]
 title = "time-bracketed-intervals+timeline+decoration"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-bracketed-intervals+timeline+decoration.png"
@@ -1813,7 +1813,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-bracketed-
 alt = "time-bracketed-intervals+timeline+decoration"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-bracketed-intervals+timeline+decoration.tex"
- 
+
 [[items]]
 title = "time-chronology-break-arr+timeline+text+advanced"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-chronology-break-arr+timeline+text+advanced.png"
@@ -1821,7 +1821,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-chronology
 alt = "time-chronology-break-arr+timeline+text+advanced"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-chronology-break-arr+timeline+text+advanced.tex"
- 
+
 [[items]]
 title = "time-colored_custom_draw+timeline+text+pgf"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-colored_custom_draw+timeline+text+pgf.png"
@@ -1829,7 +1829,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-colored_cu
 alt = "time-colored_custom_draw+timeline+text+pgf"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-colored_custom_draw+timeline+text+pgf.tex"
- 
+
 [[items]]
 title = "time-days-hours-minutes+timeline+foreach+set+multi"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-days-hours-minutes+timeline+foreach+set+multi.png"
@@ -1837,7 +1837,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-days-hours
 alt = "time-days-hours-minutes+timeline+foreach+set+multi"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-days-hours-minutes+timeline+foreach+set+multi.tex"
- 
+
 [[items]]
 title = "time-estimated-window+timeline+decoration+text"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-estimated-window+timeline+decoration+text.png"
@@ -1845,7 +1845,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-estimated-
 alt = "time-estimated-window+timeline+decoration+text"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-estimated-window+timeline+decoration+text.tex"
- 
+
 [[items]]
 title = "time-events-and-periods+timeline+set+command+pgf+scope"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-events-and-periods+timeline+set+command+pgf+scope.png"
@@ -1853,7 +1853,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-events-and
 alt = "time-events-and-periods+timeline+set+command+pgf+scope"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-events-and-periods+timeline+set+command+pgf+scope.tex"
- 
+
 [[items]]
 title = "time-long-labels-enumitem+timeline+text+style+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-long-labels-enumitem+timeline+text+style+foreach.png"
@@ -1861,7 +1861,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-long-label
 alt = "time-long-labels-enumitem+timeline+text+style+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-long-labels-enumitem+timeline+text+style+foreach.tex"
- 
+
 [[items]]
 title = "time-long-labels+timeline+text+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-long-labels+timeline+text+learn.png"
@@ -1869,7 +1869,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-long-label
 alt = "time-long-labels+timeline+text+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-long-labels+timeline+text+learn.tex"
- 
+
 [[items]]
 title = "time-long-text+timeline+text+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-long-text+timeline+text+foreach.png"
@@ -1877,7 +1877,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-long-text+
 alt = "time-long-text+timeline+text+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-long-text+timeline+text+foreach.tex"
- 
+
 [[items]]
 title = "time-multiple-lines+timeline+set+pgf+foreach+command+scope+text"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-multiple-lines+timeline+set+pgf+foreach+command+scope+text.png"
@@ -1885,7 +1885,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-multiple-l
 alt = "time-multiple-lines+timeline+set+pgf+foreach+command+scope+text"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-multiple-lines+timeline+set+pgf+foreach+command+scope+text.tex"
- 
+
 [[items]]
 title = "time-rotated-labels+timeline+foreach+text+set+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-rotated-labels+timeline+foreach+text+set+learn.png"
@@ -1893,7 +1893,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-rotated-la
 alt = "time-rotated-labels+timeline+foreach+text+set+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-rotated-labels+timeline+foreach+text+set+learn.tex"
- 
+
 [[items]]
 title = "time-rounded-box-arr+timeline+pgf+style+foreach+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-rounded-box-arr+timeline+pgf+style+foreach+learn.png"
@@ -1901,7 +1901,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-rounded-bo
 alt = "time-rounded-box-arr+timeline+pgf+style+foreach+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-rounded-box-arr+timeline+pgf+style+foreach+learn.tex"
- 
+
 [[items]]
 title = "time-simple_project+timeline+text+foreach+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-simple_project+timeline+text+foreach+learn.png"
@@ -1909,7 +1909,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-simple_pro
 alt = "time-simple_project+timeline+text+foreach+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-simple_project+timeline+text+foreach+learn.tex"
- 
+
 [[items]]
 title = "time-simple+timeline+foreach+snake+decoration+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-simple+timeline+foreach+snake+decoration+learn.png"
@@ -1917,7 +1917,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-simple+tim
 alt = "time-simple+timeline+foreach+snake+decoration+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-simple+timeline+foreach+snake+decoration+learn.tex"
- 
+
 [[items]]
 title = "time-snake_frames_and_arrows+timeline+figure+foreach"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-snake_frames_and_arrows+timeline+figure+foreach.png"
@@ -1925,7 +1925,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-snake_fram
 alt = "time-snake_frames_and_arrows+timeline+figure+foreach"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-snake_frames_and_arrows+timeline+figure+foreach.tex"
- 
+
 [[items]]
 title = "time-snake_timescale+physics+timeline+def+foreach+multi+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-snake_timescale+physics+timeline+def+foreach+multi+learn.png"
@@ -1933,7 +1933,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-snake_time
 alt = "time-snake_timescale+physics+timeline+def+foreach+multi+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-snake_timescale+physics+timeline+def+foreach+multi+learn.tex"
- 
+
 [[items]]
 title = "time-t-delta-t+timeline+text+decoration"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-t-delta-t+timeline+text+decoration.png"
@@ -1941,7 +1941,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-t-delta-t+
 alt = "time-t-delta-t+timeline+text+decoration"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-t-delta-t+timeline+text+decoration.tex"
- 
+
 [[items]]
 title = "time-time_evolution+timeline+3d+foreach+set+command"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-time_evolution+timeline+3d+foreach+set+command.png"
@@ -1949,7 +1949,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-time_evolu
 alt = "time-time_evolution+timeline+3d+foreach+set+command"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-time_evolution+timeline+3d+foreach+set+command.tex"
- 
+
 [[items]]
 title = "time-timeline+physics+timeline+def+foreach+multi+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-timeline+physics+timeline+def+foreach+multi+learn.png"
@@ -1957,7 +1957,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-timeline+p
 alt = "time-timeline+physics+timeline+def+foreach+multi+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-timeline+physics+timeline+def+foreach+multi+learn.tex"
- 
+
 [[items]]
 title = "time-tow-lined-braces+timeline+command+text+foreach+tabular+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-tow-lined-braces+timeline+command+text+foreach+tabular+learn.png"
@@ -1965,7 +1965,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-tow-lined-
 alt = "time-tow-lined-braces+timeline+command+text+foreach+tabular+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-tow-lined-braces+timeline+command+text+foreach+tabular+learn.tex"
- 
+
 [[items]]
 title = "time-two_courses_horizontal+timeline+foreach+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-two_courses_horizontal+timeline+foreach+learn.png"
@@ -1973,7 +1973,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-two_course
 alt = "time-two_courses_horizontal+timeline+foreach+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-two_courses_horizontal+timeline+foreach+learn.tex"
- 
+
 [[items]]
 title = "time-vertical-multiple-on-year+timeline+text+environment+command+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-vertical-multiple-on-year+timeline+text+environment+command+learn.png"
@@ -1981,7 +1981,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-vertical-m
 alt = "time-vertical-multiple-on-year+timeline+text+environment+command+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-vertical-multiple-on-year+timeline+text+environment+command+learn.tex"
- 
+
 [[items]]
 title = "time-year-event+timeline+set+foreach+learn"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-year-event+timeline+set+foreach+learn.png"
@@ -1989,7 +1989,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/time-year-event
 alt = "time-year-event+timeline+set+foreach+learn"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/time-year-event+timeline+set+foreach+learn.tex"
- 
+
 [[items]]
 title = "tree_sibiling+tree"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/tree_sibiling+tree.png"
@@ -1997,7 +1997,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/tree_sibiling+t
 alt = "tree_sibiling+tree"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/tree_sibiling+tree.tex"
- 
+
 [[items]]
 title = "tree-break_text_lines+tree"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/tree-break_text_lines+tree.png"
@@ -2005,7 +2005,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/tree-break_text
 alt = "tree-break_text_lines+tree"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/tree-break_text_lines+tree.tex"
- 
+
 [[items]]
 title = "tree-decision_to_drill+tree+command"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/tree-decision_to_drill+tree+command.png"
@@ -2013,7 +2013,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/tree-decision_t
 alt = "tree-decision_to_drill+tree+command"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/tree-decision_to_drill+tree+command.tex"
- 
+
 [[items]]
 title = "tree-filesystem+diagram"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/tree-filesystem+diagram.png"
@@ -2021,7 +2021,7 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/tree-filesystem
 alt = "tree-filesystem+diagram"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/tree-filesystem+diagram.tex"
- 
+
 [[items]]
 title = "tree-networked_game"
 image = "https://github.com/f0nzie/tikz_favorites/raw/master/out/tree-networked_game.png"
@@ -2029,4 +2029,3 @@ thumb = "https://github.com/f0nzie/tikz_favorites/raw/master/out/tree-networked_
 alt = "tree-networked_game"
 description = "https://github.com/f0nzie/tikz_favorites"
 url = "https://github.com/f0nzie/tikz_favorites/blob/master/src/tree-networked_game.tex"
- 
