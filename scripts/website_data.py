@@ -44,7 +44,7 @@ class GenerateWebsiteData:
 
         return title, image, image, title, self.rep_url, url
 
-    def get_all_items(self, *suffix, output_file):
+    def generate_all_items_toml(self, *suffix, output_file):
 
         suffix = (".png", ".jpg") if not(suffix) else suffix
 
@@ -52,9 +52,9 @@ class GenerateWebsiteData:
         for root, dirs, files in os.walk(self.out_dir):
             for f in files:
                 if Path(f).suffix in suffix:
-                    item = self.format_item(Path(f))
-                    all_items.append(get_item_toml(*item))
+                    all_items.append(self.format_item(Path(f)))
 
+        all_items = sorted(all_items, key=lambda x: x[0])
         with open(output_file, 'w') as f:
             for item in all_items:
-                f.write(item)
+                f.write(get_item_toml(*item))
