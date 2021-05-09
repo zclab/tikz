@@ -33,7 +33,7 @@ jobs:
         extended: true
 
     - name: Build
-      run: python build.py
+      run: python build_site.py
 
     # Push the book's HTML to github-pages
     - name: GitHub Pages action

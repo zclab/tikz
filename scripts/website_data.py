@@ -9,11 +9,12 @@ def get_item_toml(*item):
 
 class GenerateWebsiteData:
 
-    def __init__(self, src_dir, out_dir, rep_url, img_url) -> None:
+    def __init__(self, src_dir, out_dir, rep_url, img_url, branch="main") -> None:
         self._src_dir = src_dir
         self._out_dir = out_dir
         self._rep_url = rep_url
         self._img_url = img_url
+        self._branch = branch
 
     @property
     def src_dir(self):
@@ -31,8 +32,17 @@ class GenerateWebsiteData:
     def img_url(self):
         return self._img_url
 
+    @property
+    def branch(self):
+        return self._branch
+
     def format_item(self, file):
-        return file.name, self.img_url + file.name, self.img_url + file.name, file.name, self.rep_url, self.rep_url + "blob/main/src/" + file.with_suffix(".tex").name
+        title = file.name
+        image = self.img_url + self.out_dir + "/" + file.name
+        url = self.rep_url + "blob/{}/{}/".format(self.branch, self.src_dir)
+        url += file.with_suffix(".tex").name
+
+        return title, image, image, title, self.rep_url, url
 
     def get_all_items(self, *suffix, output_file):
 

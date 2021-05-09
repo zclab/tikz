@@ -1,2031 +1,2015 @@
 [[items]]
 title = "simple-wrong+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/simple-wrong+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/simple-wrong+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/simple-wrong+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/simple-wrong+diagram.png"
 alt= "simple-wrong+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/simple-wrong+diagram.tex"
 
 [[items]]
 title = "network-read-csv.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/network-read-csv.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/network-read-csv.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/network-read-csv.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/network-read-csv.png"
 alt= "network-read-csv.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/network-read-csv.tex"
 
 [[items]]
 title = "elem-magnification+elem+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-magnification+elem+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-magnification+elem+geometry.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-magnification+elem+geometry.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-magnification+elem+geometry.png"
 alt= "elem-magnification+elem+geometry.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-magnification+elem+geometry.tex"
 
 [[items]]
 title = "table-comparison-med.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/table-comparison-med.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/table-comparison-med.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/table-comparison-med.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/table-comparison-med.png"
 alt= "table-comparison-med.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/table-comparison-med.tex"
 
 [[items]]
 title = "nn-stacked_blocks+neuralnet+3d+def+pgf+set+style.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-stacked_blocks+neuralnet+3d+def+pgf+set+style.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-stacked_blocks+neuralnet+3d+def+pgf+set+style.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-stacked_blocks+neuralnet+3d+def+pgf+set+style.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-stacked_blocks+neuralnet+3d+def+pgf+set+style.png"
 alt= "nn-stacked_blocks+neuralnet+3d+def+pgf+set+style.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-stacked_blocks+neuralnet+3d+def+pgf+set+style.tex"
 
 [[items]]
 title = "elem-add_tikz_symbols_to_block_arr+symbol+diagram+command+style.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-add_tikz_symbols_to_block_arr+symbol+diagram+command+style.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-add_tikz_symbols_to_block_arr+symbol+diagram+command+style.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-add_tikz_symbols_to_block_arr+symbol+diagram+command+style.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-add_tikz_symbols_to_block_arr+symbol+diagram+command+style.png"
 alt= "elem-add_tikz_symbols_to_block_arr+symbol+diagram+command+style.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-add_tikz_symbols_to_block_arr+symbol+diagram+command+style.tex"
 
 [[items]]
 title = "3d-cone+pgf.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-cone+pgf.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-cone+pgf.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-cone+pgf.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-cone+pgf.png"
 alt= "3d-cone+pgf.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/3d-cone+pgf.tex"
 
 [[items]]
 title = "plot-physics-functions.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-physics-functions.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-physics-functions.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-physics-functions.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-physics-functions.png"
 alt= "plot-physics-functions.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/plot-physics-functions.tex"
 
 [[items]]
 title = "time-arrows-circles+timeline+pgf+set.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-arrows-circles+timeline+pgf+set.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-arrows-circles+timeline+pgf+set.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-arrows-circles+timeline+pgf+set.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-arrows-circles+timeline+pgf+set.png"
 alt= "time-arrows-circles+timeline+pgf+set.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-arrows-circles+timeline+pgf+set.tex"
 
 [[items]]
 title = "scenario_tree+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/scenario_tree+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/scenario_tree+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/scenario_tree+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/scenario_tree+diagram.png"
 alt= "scenario_tree+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/scenario_tree+diagram.tex"
 
 [[items]]
 title = "box_arrows+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/box_arrows+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/box_arrows+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/box_arrows+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/box_arrows+diagram.png"
 alt= "box_arrows+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/box_arrows+diagram.tex"
 
 [[items]]
 title = "animation-dynamic_labels.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/animation-dynamic_labels.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/animation-dynamic_labels.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/animation-dynamic_labels.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/animation-dynamic_labels.png"
 alt= "animation-dynamic_labels.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/animation-dynamic_labels.tex"
 
 [[items]]
 title = "3d-hypersurface-3.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-hypersurface-3.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-hypersurface-3.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-hypersurface-3.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-hypersurface-3.png"
 alt= "3d-hypersurface-3.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/3d-hypersurface-3.tex"
 
 [[items]]
 title = "nn-auto_net_arr+neuralnet+foreach+style+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-auto_net_arr+neuralnet+foreach+style+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-auto_net_arr+neuralnet+foreach+style+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-auto_net_arr+neuralnet+foreach+style+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-auto_net_arr+neuralnet+foreach+style+foreach.png"
 alt= "nn-auto_net_arr+neuralnet+foreach+style+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-auto_net_arr+neuralnet+foreach+style+foreach.tex"
 
 [[items]]
 title = "kalman+diagram+set.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/kalman+diagram+set.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/kalman+diagram+set.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/kalman+diagram+set.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/kalman+diagram+set.png"
 alt= "kalman+diagram+set.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/kalman+diagram+set.tex"
 
 [[items]]
 title = "inertial_system_color+diagram+pgf+command+def+layer.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/inertial_system_color+diagram+pgf+command+def+layer.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/inertial_system_color+diagram+pgf+command+def+layer.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/inertial_system_color+diagram+pgf+command+def+layer.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/inertial_system_color+diagram+pgf+command+def+layer.png"
 alt= "inertial_system_color+diagram+pgf+command+def+layer.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/inertial_system_color+diagram+pgf+command+def+layer.tex"
 
 [[items]]
 title = "tree_sibiling+tree.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/tree_sibiling+tree.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/tree_sibiling+tree.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/tree_sibiling+tree.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/tree_sibiling+tree.png"
 alt= "tree_sibiling+tree.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/tree_sibiling+tree.tex"
 
 [[items]]
 title = "geom-euclides+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/geom-euclides+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/geom-euclides+geometry.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/geom-euclides+geometry.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/geom-euclides+geometry.png"
 alt= "geom-euclides+geometry.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/geom-euclides+geometry.tex"
 
 [[items]]
 title = "nn_2figs_1page+neuralnet.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn_2figs_1page+neuralnet.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn_2figs_1page+neuralnet.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn_2figs_1page+neuralnet.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn_2figs_1page+neuralnet.png"
 alt= "nn_2figs_1page+neuralnet.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn_2figs_1page+neuralnet.tex"
 
 [[items]]
 title = "fileIO-simple_read_coordinates.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/fileIO-simple_read_coordinates.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/fileIO-simple_read_coordinates.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/fileIO-simple_read_coordinates.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/fileIO-simple_read_coordinates.png"
 alt= "fileIO-simple_read_coordinates.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/fileIO-simple_read_coordinates.tex"
 
 [[items]]
 title = "network-complex-networks-only-layer1.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/network-complex-networks-only-layer1.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/network-complex-networks-only-layer1.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/network-complex-networks-only-layer1.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/network-complex-networks-only-layer1.png"
 alt= "network-complex-networks-only-layer1.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/network-complex-networks-only-layer1.tex"
 
 [[items]]
 title = "elem-grid_RBG_draw_boxes+elem+foreach+style.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-grid_RBG_draw_boxes+elem+foreach+style.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-grid_RBG_draw_boxes+elem+foreach+style.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-grid_RBG_draw_boxes+elem+foreach+style.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-grid_RBG_draw_boxes+elem+foreach+style.png"
 alt= "elem-grid_RBG_draw_boxes+elem+foreach+style.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-grid_RBG_draw_boxes+elem+foreach+style.tex"
 
 [[items]]
 title = "table-strips.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/table-strips.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/table-strips.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/table-strips.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/table-strips.png"
 alt= "table-strips.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/table-strips.tex"
 
 [[items]]
 title = "iso-swan_wave_model-iso-off.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-swan_wave_model-iso-off.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-swan_wave_model-iso-off.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-swan_wave_model-iso-off.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-swan_wave_model-iso-off.png"
 alt= "iso-swan_wave_model-iso-off.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/iso-swan_wave_model-iso-off.tex"
 
 [[items]]
 title = "table-comparison-many.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/table-comparison-many.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/table-comparison-many.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/table-comparison-many.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/table-comparison-many.png"
 alt= "table-comparison-many.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/table-comparison-many.tex"
 
 [[items]]
 title = "time-days-hours-minutes+timeline+foreach+set+multi.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-days-hours-minutes+timeline+foreach+set+multi.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-days-hours-minutes+timeline+foreach+set+multi.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-days-hours-minutes+timeline+foreach+set+multi.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-days-hours-minutes+timeline+foreach+set+multi.png"
 alt= "time-days-hours-minutes+timeline+foreach+set+multi.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-days-hours-minutes+timeline+foreach+set+multi.tex"
 
 [[items]]
 title = "ml-single_cnn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/ml-single_cnn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/ml-single_cnn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/ml-single_cnn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/ml-single_cnn.png"
 alt= "ml-single_cnn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/ml-single_cnn.tex"
 
 [[items]]
 title = "physics-tau_decay_signatures+physics.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-tau_decay_signatures+physics.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-tau_decay_signatures+physics.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-tau_decay_signatures+physics.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-tau_decay_signatures+physics.png"
 alt= "physics-tau_decay_signatures+physics.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/physics-tau_decay_signatures+physics.tex"
 
 [[items]]
 title = "time-angling-text-1+timeline+foreach+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-angling-text-1+timeline+foreach+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-angling-text-1+timeline+foreach+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-angling-text-1+timeline+foreach+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-angling-text-1+timeline+foreach+learn.png"
 alt= "time-angling-text-1+timeline+foreach+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-angling-text-1+timeline+foreach+learn.tex"
 
 [[items]]
 title = "time-events-and-periods+timeline+set+command+pgf+scope.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-events-and-periods+timeline+set+command+pgf+scope.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-events-and-periods+timeline+set+command+pgf+scope.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-events-and-periods+timeline+set+command+pgf+scope.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-events-and-periods+timeline+set+command+pgf+scope.png"
 alt= "time-events-and-periods+timeline+set+command+pgf+scope.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-events-and-periods+timeline+set+command+pgf+scope.tex"
 
 [[items]]
 title = "elem-circle_grided+elem+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-circle_grided+elem+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-circle_grided+elem+geometry.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-circle_grided+elem+geometry.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-circle_grided+elem+geometry.png"
 alt= "elem-circle_grided+elem+geometry.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-circle_grided+elem+geometry.tex"
 
 [[items]]
 title = "flow-flowchart_video+diagram+style.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/flow-flowchart_video+diagram+style.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/flow-flowchart_video+diagram+style.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/flow-flowchart_video+diagram+style.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/flow-flowchart_video+diagram+style.png"
 alt= "flow-flowchart_video+diagram+style.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/flow-flowchart_video+diagram+style.tex"
 
 [[items]]
 title = "mapper-reducer.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mapper-reducer.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mapper-reducer.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mapper-reducer.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mapper-reducer.png"
 alt= "mapper-reducer.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mapper-reducer.tex"
 
 [[items]]
 title = "mind_child_manipulation+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_child_manipulation+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_child_manipulation+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_child_manipulation+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_child_manipulation+mindmap.png"
 alt= "mind_child_manipulation+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_child_manipulation+mindmap.tex"
 
 [[items]]
 title = "time-vertical-multiple-on-year+timeline+text+environment+command+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-vertical-multiple-on-year+timeline+text+environment+command+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-vertical-multiple-on-year+timeline+text+environment+command+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-vertical-multiple-on-year+timeline+text+environment+command+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-vertical-multiple-on-year+timeline+text+environment+command+learn.png"
 alt= "time-vertical-multiple-on-year+timeline+text+environment+command+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-vertical-multiple-on-year+timeline+text+environment+command+learn.tex"
 
 [[items]]
 title = "elem-transparent_circles+multi+pgf+set.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-transparent_circles+multi+pgf+set.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-transparent_circles+multi+pgf+set.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-transparent_circles+multi+pgf+set.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-transparent_circles+multi+pgf+set.png"
 alt= "elem-transparent_circles+multi+pgf+set.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-transparent_circles+multi+pgf+set.tex"
 
 [[items]]
 title = "elem-placing_labels_circle.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-placing_labels_circle.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-placing_labels_circle.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-placing_labels_circle.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-placing_labels_circle.png"
 alt= "elem-placing_labels_circle.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-placing_labels_circle.tex"
 
 [[items]]
 title = "positioning_blocks+diagram+foreach+scope+set+frame.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/positioning_blocks+diagram+foreach+scope+set+frame.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/positioning_blocks+diagram+foreach+scope+set+frame.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/positioning_blocks+diagram+foreach+scope+set+frame.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/positioning_blocks+diagram+foreach+scope+set+frame.png"
 alt= "positioning_blocks+diagram+foreach+scope+set+frame.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/positioning_blocks+diagram+foreach+scope+set+frame.tex"
 
 [[items]]
 title = "noise+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/noise+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/noise+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/noise+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/noise+diagram.png"
 alt= "noise+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/noise+diagram.tex"
 
 [[items]]
 title = "mind_connecting_concepts+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_connecting_concepts+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_connecting_concepts+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_connecting_concepts+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_connecting_concepts+mindmap.png"
 alt= "mind_connecting_concepts+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_connecting_concepts+mindmap.tex"
 
 [[items]]
 title = "elem-trapezium+elem+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-trapezium+elem+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-trapezium+elem+geometry.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-trapezium+elem+geometry.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-trapezium+elem+geometry.png"
 alt= "elem-trapezium+elem+geometry.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-trapezium+elem+geometry.tex"
 
 [[items]]
 title = "time-simple+timeline+foreach+snake+decoration+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-simple+timeline+foreach+snake+decoration+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-simple+timeline+foreach+snake+decoration+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-simple+timeline+foreach+snake+decoration+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-simple+timeline+foreach+snake+decoration+learn.png"
 alt= "time-simple+timeline+foreach+snake+decoration+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-simple+timeline+foreach+snake+decoration+learn.tex"
 
 [[items]]
 title = "physics-solenoid.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-solenoid.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-solenoid.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-solenoid.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-solenoid.png"
 alt= "physics-solenoid.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/physics-solenoid.tex"
 
 [[items]]
 title = "3d-cube_color_rotated+3d+pgf+foreach+command+define.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-cube_color_rotated+3d+pgf+foreach+command+define.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-cube_color_rotated+3d+pgf+foreach+command+define.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-cube_color_rotated+3d+pgf+foreach+command+define.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-cube_color_rotated+3d+pgf+foreach+command+define.png"
 alt= "3d-cube_color_rotated+3d+pgf+foreach+command+define.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/3d-cube_color_rotated+3d+pgf+foreach+command+define.tex"
 
 [[items]]
 title = "physics-impact-particles_table.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-impact-particles_table.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-impact-particles_table.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-impact-particles_table.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-impact-particles_table.png"
 alt= "physics-impact-particles_table.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/physics-impact-particles_table.tex"
 
 [[items]]
 title = "nn-05_auto_net_arr+neuralnet+style+foreach+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-05_auto_net_arr+neuralnet+style+foreach+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-05_auto_net_arr+neuralnet+style+foreach+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-05_auto_net_arr+neuralnet+style+foreach+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-05_auto_net_arr+neuralnet+style+foreach+learn.png"
 alt= "nn-05_auto_net_arr+neuralnet+style+foreach+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-05_auto_net_arr+neuralnet+style+foreach+learn.tex"
 
 [[items]]
 title = "geom-circle_coordinate_systems+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/geom-circle_coordinate_systems+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/geom-circle_coordinate_systems+geometry.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/geom-circle_coordinate_systems+geometry.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/geom-circle_coordinate_systems+geometry.png"
 alt= "geom-circle_coordinate_systems+geometry.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/geom-circle_coordinate_systems+geometry.tex"
 
 [[items]]
 title = "time-added-dots+timeline+style+text.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-added-dots+timeline+style+text.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-added-dots+timeline+style+text.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-added-dots+timeline+style+text.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-added-dots+timeline+style+text.png"
 alt= "time-added-dots+timeline+style+text.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-added-dots+timeline+style+text.tex"
 
 [[items]]
 title = "gears+pgf+def.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/gears+pgf+def.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/gears+pgf+def.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/gears+pgf+def.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/gears+pgf+def.png"
 alt= "gears+pgf+def.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/gears+pgf+def.tex"
 
 [[items]]
 title = "mind_circle_connection+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_circle_connection+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_circle_connection+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_circle_connection+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_circle_connection+mindmap.png"
 alt= "mind_circle_connection+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_circle_connection+mindmap.tex"
 
 [[items]]
 title = "geometric_representation+math+foreach+pgf+scope.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/geometric_representation+math+foreach+pgf+scope.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/geometric_representation+math+foreach+pgf+scope.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/geometric_representation+math+foreach+pgf+scope.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/geometric_representation+math+foreach+pgf+scope.png"
 alt= "geometric_representation+math+foreach+pgf+scope.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/geometric_representation+math+foreach+pgf+scope.tex"
 
 [[items]]
 title = "nn-2h_manual_net-color+neuralnet+set+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-2h_manual_net-color+neuralnet+set+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-2h_manual_net-color+neuralnet+set+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-2h_manual_net-color+neuralnet+set+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-2h_manual_net-color+neuralnet+set+foreach.png"
 alt= "nn-2h_manual_net-color+neuralnet+set+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-2h_manual_net-color+neuralnet+set+foreach.tex"
 
 [[items]]
 title = "server_player+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/server_player+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/server_player+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/server_player+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/server_player+diagram.png"
 alt= "server_player+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/server_player+diagram.tex"
 
 [[items]]
 title = "plot-electromagnetic_wave+physics.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-electromagnetic_wave+physics.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-electromagnetic_wave+physics.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-electromagnetic_wave+physics.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-electromagnetic_wave+physics.png"
 alt= "plot-electromagnetic_wave+physics.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/plot-electromagnetic_wave+physics.tex"
 
 [[items]]
 title = "time-long-text+timeline+text+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-long-text+timeline+text+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-long-text+timeline+text+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-long-text+timeline+text+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-long-text+timeline+text+foreach.png"
 alt= "time-long-text+timeline+text+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-long-text+timeline+text+foreach.tex"
 
 [[items]]
 title = "time-annuity+timeline+foreach+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-annuity+timeline+foreach+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-annuity+timeline+foreach+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-annuity+timeline+foreach+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-annuity+timeline+foreach+learn.png"
 alt= "time-annuity+timeline+foreach+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-annuity+timeline+foreach+learn.tex"
 
 [[items]]
 title = "nn-gan_vertical+neuralnet.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-gan_vertical+neuralnet.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-gan_vertical+neuralnet.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-gan_vertical+neuralnet.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-gan_vertical+neuralnet.png"
 alt= "nn-gan_vertical+neuralnet.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-gan_vertical+neuralnet.tex"
 
 [[items]]
 title = "elem-3_nodes_triangle+elem+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-3_nodes_triangle+elem+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-3_nodes_triangle+elem+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-3_nodes_triangle+elem+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-3_nodes_triangle+elem+foreach.png"
 alt= "elem-3_nodes_triangle+elem+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-3_nodes_triangle+elem+foreach.tex"
 
 [[items]]
 title = "plot-intersections+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-intersections+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-intersections+geometry.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-intersections+geometry.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-intersections+geometry.png"
 alt= "plot-intersections+geometry.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/plot-intersections+geometry.tex"
 
 [[items]]
 title = "fileIO-plot-two_plots_same_axis+fileio+pgf.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/fileIO-plot-two_plots_same_axis+fileio+pgf.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/fileIO-plot-two_plots_same_axis+fileio+pgf.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/fileIO-plot-two_plots_same_axis+fileio+pgf.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/fileIO-plot-two_plots_same_axis+fileio+pgf.png"
 alt= "fileIO-plot-two_plots_same_axis+fileio+pgf.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/fileIO-plot-two_plots_same_axis+fileio+pgf.tex"
 
 [[items]]
 title = "nn-hopfield_auto_net+neuralnet+foreach+scope+learn+style+command.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-hopfield_auto_net+neuralnet+foreach+scope+learn+style+command.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-hopfield_auto_net+neuralnet+foreach+scope+learn+style+command.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-hopfield_auto_net+neuralnet+foreach+scope+learn+style+command.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-hopfield_auto_net+neuralnet+foreach+scope+learn+style+command.png"
 alt= "nn-hopfield_auto_net+neuralnet+foreach+scope+learn+style+command.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-hopfield_auto_net+neuralnet+foreach+scope+learn+style+command.tex"
 
 [[items]]
 title = "geom-hyperbola+geometry+physics.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/geom-hyperbola+geometry+physics.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/geom-hyperbola+geometry+physics.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/geom-hyperbola+geometry+physics.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/geom-hyperbola+geometry+physics.png"
 alt= "geom-hyperbola+geometry+physics.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/geom-hyperbola+geometry+physics.tex"
 
 [[items]]
 title = "mind_computer_science+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_computer_science+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_computer_science+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_computer_science+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_computer_science+mindmap.png"
 alt= "mind_computer_science+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_computer_science+mindmap.tex"
 
 [[items]]
 title = "iso-planes-polarization+3d+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-planes-polarization+3d+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-planes-polarization+3d+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-planes-polarization+3d+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-planes-polarization+3d+foreach.png"
 alt= "iso-planes-polarization+3d+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/iso-planes-polarization+3d+foreach.tex"
 
 [[items]]
 title = "nn-02_auto_net+neuralnet+foreach+pgf+style+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-02_auto_net+neuralnet+foreach+pgf+style+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-02_auto_net+neuralnet+foreach+pgf+style+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-02_auto_net+neuralnet+foreach+pgf+style+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-02_auto_net+neuralnet+foreach+pgf+style+learn.png"
 alt= "nn-02_auto_net+neuralnet+foreach+pgf+style+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-02_auto_net+neuralnet+foreach+pgf+style+learn.tex"
 
 [[items]]
 title = "elem-stacked+elem+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-stacked+elem+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-stacked+elem+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-stacked+elem+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-stacked+elem+diagram.png"
 alt= "elem-stacked+elem+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-stacked+elem+diagram.tex"
 
 [[items]]
 title = "time-year-event+timeline+set+foreach+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-year-event+timeline+set+foreach+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-year-event+timeline+set+foreach+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-year-event+timeline+set+foreach+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-year-event+timeline+set+foreach+learn.png"
 alt= "time-year-event+timeline+set+foreach+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-year-event+timeline+set+foreach+learn.tex"
 
 [[items]]
 title = "doc-ml-cnn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/doc-ml-cnn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/doc-ml-cnn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/doc-ml-cnn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/doc-ml-cnn.png"
 alt= "doc-ml-cnn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/doc-ml-cnn.tex"
 
 [[items]]
 title = "nn-auto_net_color+neuralnet+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-auto_net_color+neuralnet+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-auto_net_color+neuralnet+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-auto_net_color+neuralnet+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-auto_net_color+neuralnet+foreach.png"
 alt= "nn-auto_net_color+neuralnet+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-auto_net_color+neuralnet+foreach.tex"
 
 [[items]]
 title = "nn-gan_two_gan_types+neuralnet.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-gan_two_gan_types+neuralnet.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-gan_two_gan_types+neuralnet.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-gan_two_gan_types+neuralnet.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-gan_two_gan_types+neuralnet.png"
 alt= "nn-gan_two_gan_types+neuralnet.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-gan_two_gan_types+neuralnet.tex"
 
 [[items]]
 title = "fileIO-circles_from_data.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/fileIO-circles_from_data.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/fileIO-circles_from_data.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/fileIO-circles_from_data.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/fileIO-circles_from_data.png"
 alt= "fileIO-circles_from_data.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/fileIO-circles_from_data.tex"
 
 [[items]]
 title = "time-arrows_to_nodes-arr+timeline+tree+scope+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-arrows_to_nodes-arr+timeline+tree+scope+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-arrows_to_nodes-arr+timeline+tree+scope+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-arrows_to_nodes-arr+timeline+tree+scope+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-arrows_to_nodes-arr+timeline+tree+scope+learn.png"
 alt= "time-arrows_to_nodes-arr+timeline+tree+scope+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-arrows_to_nodes-arr+timeline+tree+scope+learn.tex"
 
 [[items]]
 title = "nn_back_propagation+neuralnet.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn_back_propagation+neuralnet.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn_back_propagation+neuralnet.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn_back_propagation+neuralnet.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn_back_propagation+neuralnet.png"
 alt= "nn_back_propagation+neuralnet.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn_back_propagation+neuralnet.tex"
 
 [[items]]
 title = "nn-generator+neuralnet+matrix.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-generator+neuralnet+matrix.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-generator+neuralnet+matrix.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-generator+neuralnet+matrix.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-generator+neuralnet+matrix.png"
 alt= "nn-generator+neuralnet+matrix.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-generator+neuralnet+matrix.tex"
 
 [[items]]
 title = "3d-solid-of-revolution.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-solid-of-revolution.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-solid-of-revolution.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-solid-of-revolution.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-solid-of-revolution.png"
 alt= "3d-solid-of-revolution.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/3d-solid-of-revolution.tex"
 
 [[items]]
 title = "ai-computational_intelligence-pool,mackworth_arr.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/ai-computational_intelligence-pool,mackworth_arr.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/ai-computational_intelligence-pool,mackworth_arr.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/ai-computational_intelligence-pool,mackworth_arr.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/ai-computational_intelligence-pool,mackworth_arr.png"
 alt= "ai-computational_intelligence-pool,mackworth_arr.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/ai-computational_intelligence-pool,mackworth_arr.tex"
 
 [[items]]
 title = "geom-circle_bisectors_triangle+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/geom-circle_bisectors_triangle+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/geom-circle_bisectors_triangle+geometry.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/geom-circle_bisectors_triangle+geometry.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/geom-circle_bisectors_triangle+geometry.png"
 alt= "geom-circle_bisectors_triangle+geometry.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/geom-circle_bisectors_triangle+geometry.tex"
 
 [[items]]
-title = "elem-circle_half+elem+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-circle_half+elem+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-circle_half+elem+geometry.png"
-alt= "elem-circle_half+elem+geometry.png"
-description = "https://github.com/zclab/tikz/"
-url = "https://github.com/zclab/tikz/blob/main/src/elem-circle_half+elem+geometry.tex"
-
-[[items]]
 title = "iso-network-ex_doc_4-13+elem+network.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-network-ex_doc_4-13+elem+network.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-network-ex_doc_4-13+elem+network.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-network-ex_doc_4-13+elem+network.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-network-ex_doc_4-13+elem+network.png"
 alt= "iso-network-ex_doc_4-13+elem+network.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/iso-network-ex_doc_4-13+elem+network.tex"
 
 [[items]]
 title = "time-arrows-on-periods+timeline+foreach+style+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-arrows-on-periods+timeline+foreach+style+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-arrows-on-periods+timeline+foreach+style+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-arrows-on-periods+timeline+foreach+style+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-arrows-on-periods+timeline+foreach+style+learn.png"
 alt= "time-arrows-on-periods+timeline+foreach+style+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-arrows-on-periods+timeline+foreach+style+learn.tex"
 
 [[items]]
 title = "elem-draw_circles_through+elem+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-draw_circles_through+elem+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-draw_circles_through+elem+geometry.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-draw_circles_through+elem+geometry.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-draw_circles_through+elem+geometry.png"
 alt= "elem-draw_circles_through+elem+geometry.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-draw_circles_through+elem+geometry.tex"
 
 [[items]]
 title = "ai-artificial_intelligence_jmccarthy_arr.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/ai-artificial_intelligence_jmccarthy_arr.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/ai-artificial_intelligence_jmccarthy_arr.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/ai-artificial_intelligence_jmccarthy_arr.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/ai-artificial_intelligence_jmccarthy_arr.png"
 alt= "ai-artificial_intelligence_jmccarthy_arr.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/ai-artificial_intelligence_jmccarthy_arr.tex"
 
 [[items]]
 title = "impact-supreme_court+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-supreme_court+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-supreme_court+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-supreme_court+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-supreme_court+diagram.png"
 alt= "impact-supreme_court+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/impact-supreme_court+diagram.tex"
 
 [[items]]
 title = "time-timeline+physics+timeline+def+foreach+multi+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-timeline+physics+timeline+def+foreach+multi+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-timeline+physics+timeline+def+foreach+multi+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-timeline+physics+timeline+def+foreach+multi+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-timeline+physics+timeline+def+foreach+multi+learn.png"
 alt= "time-timeline+physics+timeline+def+foreach+multi+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-timeline+physics+timeline+def+foreach+multi+learn.tex"
 
 [[items]]
 title = "elem-text_boxes_helpme+elem+diagram+text.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-text_boxes_helpme+elem+diagram+text.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-text_boxes_helpme+elem+diagram+text.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-text_boxes_helpme+elem+diagram+text.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-text_boxes_helpme+elem+diagram+text.png"
 alt= "elem-text_boxes_helpme+elem+diagram+text.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-text_boxes_helpme+elem+diagram+text.tex"
 
 [[items]]
 title = "porter_model+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/porter_model+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/porter_model+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/porter_model+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/porter_model+diagram.png"
 alt= "porter_model+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/porter_model+diagram.tex"
 
 [[items]]
 title = "gears_simple+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/gears_simple+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/gears_simple+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/gears_simple+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/gears_simple+foreach.png"
 alt= "gears_simple+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/gears_simple+foreach.tex"
 
 [[items]]
 title = "nn-08-tkz-berge-01+neuralnet+scope+foreach+pkg.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-08-tkz-berge-01+neuralnet+scope+foreach+pkg.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-08-tkz-berge-01+neuralnet+scope+foreach+pkg.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-08-tkz-berge-01+neuralnet+scope+foreach+pkg.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-08-tkz-berge-01+neuralnet+scope+foreach+pkg.png"
 alt= "nn-08-tkz-berge-01+neuralnet+scope+foreach+pkg.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-08-tkz-berge-01+neuralnet+scope+foreach+pkg.tex"
 
 [[items]]
 title = "nn-a3c_manual_net_arr+neuralnet.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-a3c_manual_net_arr+neuralnet.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-a3c_manual_net_arr+neuralnet.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-a3c_manual_net_arr+neuralnet.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-a3c_manual_net_arr+neuralnet.png"
 alt= "nn-a3c_manual_net_arr+neuralnet.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-a3c_manual_net_arr+neuralnet.tex"
 
 [[items]]
 title = "network-multilayer.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/network-multilayer.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/network-multilayer.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/network-multilayer.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/network-multilayer.png"
 alt= "network-multilayer.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/network-multilayer.tex"
 
 [[items]]
 title = "plot-linear-regression+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-linear-regression+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-linear-regression+geometry.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-linear-regression+geometry.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-linear-regression+geometry.png"
 alt= "plot-linear-regression+geometry.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/plot-linear-regression+geometry.tex"
 
 [[items]]
 title = "colorized_equation+equation.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/colorized_equation+equation.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/colorized_equation+equation.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/colorized_equation+equation.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/colorized_equation+equation.png"
 alt= "colorized_equation+equation.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/colorized_equation+equation.tex"
 
 [[items]]
 title = "multiple_block_connections-101+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/multiple_block_connections-101+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/multiple_block_connections-101+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/multiple_block_connections-101+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/multiple_block_connections-101+diagram.png"
 alt= "multiple_block_connections-101+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/multiple_block_connections-101+diagram.tex"
 
 [[items]]
 title = "mind_fixed+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_fixed+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_fixed+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_fixed+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_fixed+mindmap.png"
 alt= "mind_fixed+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_fixed+mindmap.tex"
 
 [[items]]
 title = "time-rounded-box-arr+timeline+pgf+style+foreach+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-rounded-box-arr+timeline+pgf+style+foreach+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-rounded-box-arr+timeline+pgf+style+foreach+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-rounded-box-arr+timeline+pgf+style+foreach+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-rounded-box-arr+timeline+pgf+style+foreach+learn.png"
 alt= "time-rounded-box-arr+timeline+pgf+style+foreach+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-rounded-box-arr+timeline+pgf+style+foreach+learn.tex"
 
 [[items]]
 title = "elem-grid_RBG_draw_lines+elem+3d+pgf+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-grid_RBG_draw_lines+elem+3d+pgf+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-grid_RBG_draw_lines+elem+3d+pgf+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-grid_RBG_draw_lines+elem+3d+pgf+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-grid_RBG_draw_lines+elem+3d+pgf+foreach.png"
 alt= "elem-grid_RBG_draw_lines+elem+3d+pgf+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-grid_RBG_draw_lines+elem+3d+pgf+foreach.tex"
 
 [[items]]
 title = "time-tow-lined-braces+timeline+command+text+foreach+tabular+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-tow-lined-braces+timeline+command+text+foreach+tabular+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-tow-lined-braces+timeline+command+text+foreach+tabular+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-tow-lined-braces+timeline+command+text+foreach+tabular+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-tow-lined-braces+timeline+command+text+foreach+tabular+learn.png"
 alt= "time-tow-lined-braces+timeline+command+text+foreach+tabular+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-tow-lined-braces+timeline+command+text+foreach+tabular+learn.tex"
 
 [[items]]
 title = "3d-cylinder-planes+3d.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-cylinder-planes+3d.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-cylinder-planes+3d.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-cylinder-planes+3d.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-cylinder-planes+3d.png"
 alt= "3d-cylinder-planes+3d.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/3d-cylinder-planes+3d.tex"
 
 [[items]]
 title = "nn-neural_network-1h+neuralnet+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-neural_network-1h+neuralnet+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-neural_network-1h+neuralnet+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-neural_network-1h+neuralnet+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-neural_network-1h+neuralnet+foreach.png"
 alt= "nn-neural_network-1h+neuralnet+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-neural_network-1h+neuralnet+foreach.tex"
 
 [[items]]
 title = "multiline-flowchart.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/multiline-flowchart.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/multiline-flowchart.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/multiline-flowchart.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/multiline-flowchart.png"
 alt= "multiline-flowchart.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/multiline-flowchart.tex"
 
 [[items]]
 title = "elem-custom-three_objects+symbols+command.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-custom-three_objects+symbols+command.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-custom-three_objects+symbols+command.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-custom-three_objects+symbols+command.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-custom-three_objects+symbols+command.png"
 alt= "elem-custom-three_objects+symbols+command.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-custom-three_objects+symbols+command.tex"
 
 [[items]]
 title = "nn_encoder_2pages_3figs_+neuralnet.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn_encoder_2pages_3figs_+neuralnet.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn_encoder_2pages_3figs_+neuralnet.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn_encoder_2pages_3figs_+neuralnet.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn_encoder_2pages_3figs_+neuralnet.png"
 alt= "nn_encoder_2pages_3figs_+neuralnet.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn_encoder_2pages_3figs_+neuralnet.tex"
 
 [[items]]
 title = "nested+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nested+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nested+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nested+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nested+diagram.png"
 alt= "nested+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nested+diagram.tex"
 
 [[items]]
 title = "plot-shading_regions+geometry+pgf+command+def.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-shading_regions+geometry+pgf+command+def.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-shading_regions+geometry+pgf+command+def.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-shading_regions+geometry+pgf+command+def.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-shading_regions+geometry+pgf+command+def.png"
 alt= "plot-shading_regions+geometry+pgf+command+def.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/plot-shading_regions+geometry+pgf+command+def.tex"
 
 [[items]]
 title = "3d-seismic_focal_mechanism+3d+set+foreach+eng.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-seismic_focal_mechanism+3d+set+foreach+eng.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-seismic_focal_mechanism+3d+set+foreach+eng.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-seismic_focal_mechanism+3d+set+foreach+eng.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-seismic_focal_mechanism+3d+set+foreach+eng.png"
 alt= "3d-seismic_focal_mechanism+3d+set+foreach+eng.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/3d-seismic_focal_mechanism+3d+set+foreach+eng.tex"
 
 [[items]]
 title = "mammography_bayes+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mammography_bayes+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mammography_bayes+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mammography_bayes+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mammography_bayes+diagram.png"
 alt= "mammography_bayes+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mammography_bayes+diagram.tex"
 
 [[items]]
 title = "time-two_courses_horizontal+timeline+foreach+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-two_courses_horizontal+timeline+foreach+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-two_courses_horizontal+timeline+foreach+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-two_courses_horizontal+timeline+foreach+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-two_courses_horizontal+timeline+foreach+learn.png"
 alt= "time-two_courses_horizontal+timeline+foreach+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-two_courses_horizontal+timeline+foreach+learn.tex"
 
 [[items]]
 title = "cubes_factorials+physics+3d.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/cubes_factorials+physics+3d.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/cubes_factorials+physics+3d.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/cubes_factorials+physics+3d.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/cubes_factorials+physics+3d.png"
 alt= "cubes_factorials+physics+3d.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/cubes_factorials+physics+3d.tex"
 
 [[items]]
 title = "eng-machanical_system.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/eng-machanical_system.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/eng-machanical_system.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/eng-machanical_system.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/eng-machanical_system.png"
 alt= "eng-machanical_system.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/eng-machanical_system.tex"
 
 [[items]]
 title = "nn-block_diagram-multilayer_perceptron+neuralnet+style+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-block_diagram-multilayer_perceptron+neuralnet+style+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-block_diagram-multilayer_perceptron+neuralnet+style+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-block_diagram-multilayer_perceptron+neuralnet+style+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-block_diagram-multilayer_perceptron+neuralnet+style+learn.png"
 alt= "nn-block_diagram-multilayer_perceptron+neuralnet+style+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-block_diagram-multilayer_perceptron+neuralnet+style+learn.tex"
 
 [[items]]
 title = "impact-venn+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-venn+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-venn+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-venn+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-venn+diagram.png"
 alt= "impact-venn+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/impact-venn+diagram.tex"
 
 [[items]]
 title = "pirates-games.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/pirates-games.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/pirates-games.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/pirates-games.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/pirates-games.png"
 alt= "pirates-games.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/pirates-games.tex"
 
 [[items]]
 title = "nn-auto_net_4h_arr+neuralnet+matrix+foreach+style+scope.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-auto_net_4h_arr+neuralnet+matrix+foreach+style+scope.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-auto_net_4h_arr+neuralnet+matrix+foreach+style+scope.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-auto_net_4h_arr+neuralnet+matrix+foreach+style+scope.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-auto_net_4h_arr+neuralnet+matrix+foreach+style+scope.png"
 alt= "nn-auto_net_4h_arr+neuralnet+matrix+foreach+style+scope.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-auto_net_4h_arr+neuralnet+matrix+foreach+style+scope.tex"
 
 [[items]]
 title = "mind_clip+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_clip+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_clip+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_clip+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_clip+mindmap.png"
 alt= "mind_clip+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_clip+mindmap.tex"
 
 [[items]]
 title = "elem-physics-arrows_to_nodes+elem+phsyics.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-physics-arrows_to_nodes+elem+phsyics.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-physics-arrows_to_nodes+elem+phsyics.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-physics-arrows_to_nodes+elem+phsyics.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-physics-arrows_to_nodes+elem+phsyics.png"
 alt= "elem-physics-arrows_to_nodes+elem+phsyics.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-physics-arrows_to_nodes+elem+phsyics.tex"
 
 [[items]]
 title = "plot-curves-frequency_modulation+physics.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-curves-frequency_modulation+physics.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-curves-frequency_modulation+physics.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-curves-frequency_modulation+physics.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-curves-frequency_modulation+physics.png"
 alt= "plot-curves-frequency_modulation+physics.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/plot-curves-frequency_modulation+physics.tex"
 
 [[items]]
 title = "mind_2nd_level_concentric+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_2nd_level_concentric+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_2nd_level_concentric+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_2nd_level_concentric+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_2nd_level_concentric+mindmap.png"
 alt= "mind_2nd_level_concentric+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_2nd_level_concentric+mindmap.tex"
 
 [[items]]
 title = "nn-auto_net_bias_arr+neuralnet+learn+foreach+def+command+ifnum+style.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-auto_net_bias_arr+neuralnet+learn+foreach+def+command+ifnum+style.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-auto_net_bias_arr+neuralnet+learn+foreach+def+command+ifnum+style.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-auto_net_bias_arr+neuralnet+learn+foreach+def+command+ifnum+style.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-auto_net_bias_arr+neuralnet+learn+foreach+def+command+ifnum+style.png"
 alt= "nn-auto_net_bias_arr+neuralnet+learn+foreach+def+command+ifnum+style.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-auto_net_bias_arr+neuralnet+learn+foreach+def+command+ifnum+style.tex"
 
 [[items]]
 title = "3d-cone_intersection+3d+pgf.lualatex.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-cone_intersection+3d+pgf.lualatex.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-cone_intersection+3d+pgf.lualatex.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-cone_intersection+3d+pgf.lualatex.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-cone_intersection+3d+pgf.lualatex.png"
 alt= "3d-cone_intersection+3d+pgf.lualatex.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/3d-cone_intersection+3d+pgf.lualatex.tex"
 
 [[items]]
 title = "flow-labs_class+diagram+style+pgf+command.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/flow-labs_class+diagram+style+pgf+command.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/flow-labs_class+diagram+style+pgf+command.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/flow-labs_class+diagram+style+pgf+command.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/flow-labs_class+diagram+style+pgf+command.png"
 alt= "flow-labs_class+diagram+style+pgf+command.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/flow-labs_class+diagram+style+pgf+command.tex"
 
 [[items]]
 title = "elem-highlight_curve.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-highlight_curve.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-highlight_curve.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-highlight_curve.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-highlight_curve.png"
 alt= "elem-highlight_curve.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-highlight_curve.tex"
 
 [[items]]
 title = "time-simple_project+timeline+text+foreach+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-simple_project+timeline+text+foreach+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-simple_project+timeline+text+foreach+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-simple_project+timeline+text+foreach+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-simple_project+timeline+text+foreach+learn.png"
 alt= "time-simple_project+timeline+text+foreach+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-simple_project+timeline+text+foreach+learn.tex"
 
 [[items]]
 title = "time-long-labels+timeline+text+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-long-labels+timeline+text+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-long-labels+timeline+text+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-long-labels+timeline+text+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-long-labels+timeline+text+learn.png"
 alt= "time-long-labels+timeline+text+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-long-labels+timeline+text+learn.tex"
 
 [[items]]
 title = "physics-trajectory.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-trajectory.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-trajectory.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-trajectory.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-trajectory.png"
 alt= "physics-trajectory.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/physics-trajectory.tex"
 
 [[items]]
 title = "3d-gradient-colored.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-gradient-colored.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-gradient-colored.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-gradient-colored.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-gradient-colored.png"
 alt= "3d-gradient-colored.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/3d-gradient-colored.tex"
 
 [[items]]
 title = "fileIO-table-read_data+fileio+pgf+table.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/fileIO-table-read_data+fileio+pgf+table.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/fileIO-table-read_data+fileio+pgf+table.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/fileIO-table-read_data+fileio+pgf+table.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/fileIO-table-read_data+fileio+pgf+table.png"
 alt= "fileIO-table-read_data+fileio+pgf+table.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/fileIO-table-read_data+fileio+pgf+table.tex"
 
 [[items]]
 title = "mind_two_connected_roots+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_two_connected_roots+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_two_connected_roots+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_two_connected_roots+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_two_connected_roots+mindmap.png"
 alt= "mind_two_connected_roots+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_two_connected_roots+mindmap.tex"
 
 [[items]]
 title = "impact-os_model_layers.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-os_model_layers.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-os_model_layers.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-os_model_layers.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-os_model_layers.png"
 alt= "impact-os_model_layers.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/impact-os_model_layers.tex"
 
 [[items]]
 title = "fileIO-plot_curves-read_data+fileio+plot+pgf.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/fileIO-plot_curves-read_data+fileio+plot+pgf.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/fileIO-plot_curves-read_data+fileio+plot+pgf.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/fileIO-plot_curves-read_data+fileio+plot+pgf.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/fileIO-plot_curves-read_data+fileio+plot+pgf.png"
 alt= "fileIO-plot_curves-read_data+fileio+plot+pgf.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/fileIO-plot_curves-read_data+fileio+plot+pgf.tex"
 
 [[items]]
 title = "nn-06_manual_net_color+neuralnet+foreach+style.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-06_manual_net_color+neuralnet+foreach+style.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-06_manual_net_color+neuralnet+foreach+style.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-06_manual_net_color+neuralnet+foreach+style.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-06_manual_net_color+neuralnet+foreach+style.png"
 alt= "nn-06_manual_net_color+neuralnet+foreach+style.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-06_manual_net_color+neuralnet+foreach+style.tex"
 
 [[items]]
 title = "time-bracketed-intervals+timeline+decoration.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-bracketed-intervals+timeline+decoration.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-bracketed-intervals+timeline+decoration.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-bracketed-intervals+timeline+decoration.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-bracketed-intervals+timeline+decoration.png"
 alt= "time-bracketed-intervals+timeline+decoration.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-bracketed-intervals+timeline+decoration.tex"
 
 [[items]]
 title = "steps+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/steps+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/steps+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/steps+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/steps+diagram.png"
 alt= "steps+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/steps+diagram.tex"
 
 [[items]]
 title = "3d-torus+function+3d.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-torus+function+3d.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-torus+function+3d.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-torus+function+3d.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-torus+function+3d.png"
 alt= "3d-torus+function+3d.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/3d-torus+function+3d.tex"
 
 [[items]]
 title = "table-comparison-minimal.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/table-comparison-minimal.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/table-comparison-minimal.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/table-comparison-minimal.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/table-comparison-minimal.png"
 alt= "table-comparison-minimal.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/table-comparison-minimal.tex"
 
 [[items]]
 title = "radix_signal_flow+math+diagram+foreach+style+counter.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/radix_signal_flow+math+diagram+foreach+style+counter.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/radix_signal_flow+math+diagram+foreach+style+counter.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/radix_signal_flow+math+diagram+foreach+style+counter.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/radix_signal_flow+math+diagram+foreach+style+counter.png"
 alt= "radix_signal_flow+math+diagram+foreach+style+counter.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/radix_signal_flow+math+diagram+foreach+style+counter.tex"
 
 [[items]]
 title = "fileIO-time-read-data+timeline+fileio+pgf+foreach+text.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/fileIO-time-read-data+timeline+fileio+pgf+foreach+text.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/fileIO-time-read-data+timeline+fileio+pgf+foreach+text.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/fileIO-time-read-data+timeline+fileio+pgf+foreach+text.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/fileIO-time-read-data+timeline+fileio+pgf+foreach+text.png"
 alt= "fileIO-time-read-data+timeline+fileio+pgf+foreach+text.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/fileIO-time-read-data+timeline+fileio+pgf+foreach+text.tex"
 
 [[items]]
 title = "flow-report_diagrams+diagram+learn+style.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/flow-report_diagrams+diagram+learn+style.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/flow-report_diagrams+diagram+learn+style.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/flow-report_diagrams+diagram+learn+style.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/flow-report_diagrams+diagram+learn+style.png"
 alt= "flow-report_diagrams+diagram+learn+style.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/flow-report_diagrams+diagram+learn+style.tex"
 
 [[items]]
 title = "plot-derivatives+plot.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-derivatives+plot.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-derivatives+plot.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-derivatives+plot.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-derivatives+plot.png"
 alt= "plot-derivatives+plot.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/plot-derivatives+plot.tex"
 
 [[items]]
 title = "elem-simple_computations_pentagon+elem+style.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-simple_computations_pentagon+elem+style.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-simple_computations_pentagon+elem+style.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-simple_computations_pentagon+elem+style.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-simple_computations_pentagon+elem+style.png"
 alt= "elem-simple_computations_pentagon+elem+style.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-simple_computations_pentagon+elem+style.tex"
 
 [[items]]
 title = "elem-10_circles+elem+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-10_circles+elem+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-10_circles+elem+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-10_circles+elem+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-10_circles+elem+foreach.png"
 alt= "elem-10_circles+elem+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-10_circles+elem+foreach.tex"
 
 [[items]]
 title = "network-complex-networks.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/network-complex-networks.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/network-complex-networks.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/network-complex-networks.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/network-complex-networks.png"
 alt= "network-complex-networks.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/network-complex-networks.tex"
 
 [[items]]
 title = "mind_2nd_level_reactangular_frame+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_2nd_level_reactangular_frame+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_2nd_level_reactangular_frame+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_2nd_level_reactangular_frame+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_2nd_level_reactangular_frame+mindmap.png"
 alt= "mind_2nd_level_reactangular_frame+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_2nd_level_reactangular_frame+mindmap.tex"
 
 [[items]]
 title = "elem-tikz-01+elem+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-tikz-01+elem+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-tikz-01+elem+geometry.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-tikz-01+elem+geometry.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-tikz-01+elem+geometry.png"
 alt= "elem-tikz-01+elem+geometry.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-tikz-01+elem+geometry.tex"
 
 [[items]]
 title = "multiple_blocks_interconnection+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/multiple_blocks_interconnection+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/multiple_blocks_interconnection+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/multiple_blocks_interconnection+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/multiple_blocks_interconnection+diagram.png"
 alt= "multiple_blocks_interconnection+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/multiple_blocks_interconnection+diagram.tex"
 
 [[items]]
 title = "nn-gan_complete+neuralnet.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-gan_complete+neuralnet.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-gan_complete+neuralnet.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-gan_complete+neuralnet.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-gan_complete+neuralnet.png"
 alt= "nn-gan_complete+neuralnet.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-gan_complete+neuralnet.tex"
 
 [[items]]
 title = "time-snake_frames_and_arrows+timeline+figure+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-snake_frames_and_arrows+timeline+figure+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-snake_frames_and_arrows+timeline+figure+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-snake_frames_and_arrows+timeline+figure+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-snake_frames_and_arrows+timeline+figure+foreach.png"
 alt= "time-snake_frames_and_arrows+timeline+figure+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-snake_frames_and_arrows+timeline+figure+foreach.tex"
 
 [[items]]
 title = "nn-generative_adversarial_network_manual_net+neuralnet.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-generative_adversarial_network_manual_net+neuralnet.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-generative_adversarial_network_manual_net+neuralnet.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-generative_adversarial_network_manual_net+neuralnet.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-generative_adversarial_network_manual_net+neuralnet.png"
 alt= "nn-generative_adversarial_network_manual_net+neuralnet.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-generative_adversarial_network_manual_net+neuralnet.tex"
 
 [[items]]
 title = "time-time_evolution+timeline+3d+foreach+set+command.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-time_evolution+timeline+3d+foreach+set+command.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-time_evolution+timeline+3d+foreach+set+command.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-time_evolution+timeline+3d+foreach+set+command.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-time_evolution+timeline+3d+foreach+set+command.png"
 alt= "time-time_evolution+timeline+3d+foreach+set+command.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-time_evolution+timeline+3d+foreach+set+command.tex"
 
 [[items]]
 title = "plot-regression+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-regression+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-regression+geometry.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-regression+geometry.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-regression+geometry.png"
 alt= "plot-regression+geometry.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/plot-regression+geometry.tex"
 
 [[items]]
 title = "impact-technologies_arrow+matrix+set+command+matrix.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-technologies_arrow+matrix+set+command+matrix.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-technologies_arrow+matrix+set+command+matrix.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-technologies_arrow+matrix+set+command+matrix.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-technologies_arrow+matrix+set+command+matrix.png"
 alt= "impact-technologies_arrow+matrix+set+command+matrix.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/impact-technologies_arrow+matrix+set+command+matrix.tex"
 
 [[items]]
 title = "grid_RBG+3d+foreach+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/grid_RBG+3d+foreach+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/grid_RBG+3d+foreach+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/grid_RBG+3d+foreach+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/grid_RBG+3d+foreach+learn.png"
 alt= "grid_RBG+3d+foreach+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/grid_RBG+3d+foreach+learn.tex"
 
 [[items]]
 title = "mind_hyperlinks+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_hyperlinks+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_hyperlinks+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_hyperlinks+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_hyperlinks+mindmap.png"
 alt= "mind_hyperlinks+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_hyperlinks+mindmap.tex"
 
 [[items]]
 title = "mind_thicker_connectors+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_thicker_connectors+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_thicker_connectors+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_thicker_connectors+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_thicker_connectors+mindmap.png"
 alt= "mind_thicker_connectors+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_thicker_connectors+mindmap.tex"
 
 [[items]]
 title = "impact-simulation_abstraction+physics.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-simulation_abstraction+physics.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-simulation_abstraction+physics.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-simulation_abstraction+physics.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-simulation_abstraction+physics.png"
 alt= "impact-simulation_abstraction+physics.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/impact-simulation_abstraction+physics.tex"
 
 [[items]]
 title = "time-auto_time_scale+timeline+foreach+pgf.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-auto_time_scale+timeline+foreach+pgf.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-auto_time_scale+timeline+foreach+pgf.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-auto_time_scale+timeline+foreach+pgf.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-auto_time_scale+timeline+foreach+pgf.png"
 alt= "time-auto_time_scale+timeline+foreach+pgf.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-auto_time_scale+timeline+foreach+pgf.tex"
 
 [[items]]
 title = "mind_children_two+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_children_two+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_children_two+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_children_two+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_children_two+mindmap.png"
 alt= "mind_children_two+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_children_two+mindmap.tex"
 
 [[items]]
 title = "fileIO-airfoil_from_data.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/fileIO-airfoil_from_data.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/fileIO-airfoil_from_data.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/fileIO-airfoil_from_data.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/fileIO-airfoil_from_data.png"
 alt= "fileIO-airfoil_from_data.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/fileIO-airfoil_from_data.tex"
 
 [[items]]
 title = "geom-ellipse_on_coords+geometry+pgf+def+script.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/geom-ellipse_on_coords+geometry+pgf+def+script.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/geom-ellipse_on_coords+geometry+pgf+def+script.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/geom-ellipse_on_coords+geometry+pgf+def+script.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/geom-ellipse_on_coords+geometry+pgf+def+script.png"
 alt= "geom-ellipse_on_coords+geometry+pgf+def+script.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/geom-ellipse_on_coords+geometry+pgf+def+script.tex"
 
 [[items]]
 title = "custom-use_library+symbol+pkg.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/custom-use_library+symbol+pkg.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/custom-use_library+symbol+pkg.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/custom-use_library+symbol+pkg.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/custom-use_library+symbol+pkg.png"
 alt= "custom-use_library+symbol+pkg.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/custom-use_library+symbol+pkg.tex"
 
 [[items]]
 title = "elem-matrix-as_nodes+elem+matrix.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-matrix-as_nodes+elem+matrix.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-matrix-as_nodes+elem+matrix.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-matrix-as_nodes+elem+matrix.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-matrix-as_nodes+elem+matrix.png"
 alt= "elem-matrix-as_nodes+elem+matrix.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-matrix-as_nodes+elem+matrix.tex"
 
 [[items]]
 title = "ml_evolutionary+scope.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/ml_evolutionary+scope.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/ml_evolutionary+scope.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/ml_evolutionary+scope.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/ml_evolutionary+scope.png"
 alt= "ml_evolutionary+scope.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/ml_evolutionary+scope.tex"
 
 [[items]]
 title = "tree-filesystem+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/tree-filesystem+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/tree-filesystem+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/tree-filesystem+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/tree-filesystem+diagram.png"
 alt= "tree-filesystem+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/tree-filesystem+diagram.tex"
 
 [[items]]
 title = "3d-physics-jet-cones+3d+physics.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-physics-jet-cones+3d+physics.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-physics-jet-cones+3d+physics.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-physics-jet-cones+3d+physics.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-physics-jet-cones+3d+physics.png"
 alt= "3d-physics-jet-cones+3d+physics.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/3d-physics-jet-cones+3d+physics.tex"
 
 [[items]]
 title = "time-angling-text-2+timeline+foreach+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-angling-text-2+timeline+foreach+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-angling-text-2+timeline+foreach+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-angling-text-2+timeline+foreach+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-angling-text-2+timeline+foreach+learn.png"
 alt= "time-angling-text-2+timeline+foreach+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-angling-text-2+timeline+foreach+learn.tex"
 
 [[items]]
 title = "iso-planes-multidimensional-array.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-planes-multidimensional-array.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-planes-multidimensional-array.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-planes-multidimensional-array.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-planes-multidimensional-array.png"
 alt= "iso-planes-multidimensional-array.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/iso-planes-multidimensional-array.tex"
 
 [[items]]
 title = "simple-right+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/simple-right+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/simple-right+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/simple-right+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/simple-right+diagram.png"
 alt= "simple-right+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/simple-right+diagram.tex"
 
 [[items]]
 title = "mind_scientific_interactions+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_scientific_interactions+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_scientific_interactions+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_scientific_interactions+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_scientific_interactions+mindmap.png"
 alt= "mind_scientific_interactions+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_scientific_interactions+mindmap.tex"
 
 [[items]]
 title = "nn-SVM_manual+neuralnet.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-SVM_manual+neuralnet.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-SVM_manual+neuralnet.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-SVM_manual+neuralnet.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-SVM_manual+neuralnet.png"
 alt= "nn-SVM_manual+neuralnet.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-SVM_manual+neuralnet.tex"
 
 [[items]]
 title = "nn-2_summarized+neuralnet+style+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-2_summarized+neuralnet+style+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-2_summarized+neuralnet+style+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-2_summarized+neuralnet+style+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-2_summarized+neuralnet+style+learn.png"
 alt= "nn-2_summarized+neuralnet+style+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-2_summarized+neuralnet+style+learn.tex"
 
 [[items]]
 title = "elem-cube+elem+geometry+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-cube+elem+geometry+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-cube+elem+geometry+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-cube+elem+geometry+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-cube+elem+geometry+foreach.png"
 alt= "elem-cube+elem+geometry+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-cube+elem+geometry+foreach.tex"
 
 [[items]]
 title = "ml_feature_selection.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/ml_feature_selection.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/ml_feature_selection.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/ml_feature_selection.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/ml_feature_selection.png"
 alt= "ml_feature_selection.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/ml_feature_selection.tex"
 
 [[items]]
 title = "iso-swan_wave_model-iso-on.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-swan_wave_model-iso-on.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-swan_wave_model-iso-on.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-swan_wave_model-iso-on.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-swan_wave_model-iso-on.png"
 alt= "iso-swan_wave_model-iso-on.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/iso-swan_wave_model-iso-on.tex"
 
 [[items]]
 title = "matrix-spreadsheet_formula+matrix+command.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/matrix-spreadsheet_formula+matrix+command.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/matrix-spreadsheet_formula+matrix+command.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/matrix-spreadsheet_formula+matrix+command.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/matrix-spreadsheet_formula+matrix+command.png"
 alt= "matrix-spreadsheet_formula+matrix+command.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/matrix-spreadsheet_formula+matrix+command.tex"
 
 [[items]]
 title = "nn-discriminator+neuralnet+matrix+foreach+style.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-discriminator+neuralnet+matrix+foreach+style.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-discriminator+neuralnet+matrix+foreach+style.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-discriminator+neuralnet+matrix+foreach+style.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-discriminator+neuralnet+matrix+foreach+style.png"
 alt= "nn-discriminator+neuralnet+matrix+foreach+style.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-discriminator+neuralnet+matrix+foreach+style.tex"
 
 [[items]]
 title = "matrix-highlighting.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/matrix-highlighting.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/matrix-highlighting.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/matrix-highlighting.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/matrix-highlighting.png"
 alt= "matrix-highlighting.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/matrix-highlighting.tex"
 
 [[items]]
 title = "eng-quarter_car_model.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/eng-quarter_car_model.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/eng-quarter_car_model.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/eng-quarter_car_model.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/eng-quarter_car_model.png"
 alt= "eng-quarter_car_model.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/eng-quarter_car_model.tex"
 
 [[items]]
 title = "git_dataflow+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/git_dataflow+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/git_dataflow+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/git_dataflow+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/git_dataflow+diagram.png"
 alt= "git_dataflow+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/git_dataflow+diagram.tex"
 
 [[items]]
 title = "nn_signal_flow+neuralnet.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn_signal_flow+neuralnet.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn_signal_flow+neuralnet.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn_signal_flow+neuralnet.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn_signal_flow+neuralnet.png"
 alt= "nn_signal_flow+neuralnet.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn_signal_flow+neuralnet.tex"
 
 [[items]]
 title = "nn-03_auto_net+neuralnet+foreach+style+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-03_auto_net+neuralnet+foreach+style+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-03_auto_net+neuralnet+foreach+style+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-03_auto_net+neuralnet+foreach+style+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-03_auto_net+neuralnet+foreach+style+learn.png"
 alt= "nn-03_auto_net+neuralnet+foreach+style+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-03_auto_net+neuralnet+foreach+style+learn.tex"
 
 [[items]]
 title = "plot-filled_curve+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-filled_curve+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-filled_curve+geometry.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-filled_curve+geometry.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-filled_curve+geometry.png"
 alt= "plot-filled_curve+geometry.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/plot-filled_curve+geometry.tex"
 
 [[items]]
 title = "elem-tikz-02+elem+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-tikz-02+elem+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-tikz-02+elem+geometry.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-tikz-02+elem+geometry.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-tikz-02+elem+geometry.png"
 alt= "elem-tikz-02+elem+geometry.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-tikz-02+elem+geometry.tex"
 
 [[items]]
 title = "physics-diagram-handshake.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-diagram-handshake.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-diagram-handshake.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-diagram-handshake.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-diagram-handshake.png"
 alt= "physics-diagram-handshake.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/physics-diagram-handshake.tex"
 
 [[items]]
 title = "elem-draw_ticks+elem+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-draw_ticks+elem+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-draw_ticks+elem+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-draw_ticks+elem+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-draw_ticks+elem+foreach.png"
 alt= "elem-draw_ticks+elem+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-draw_ticks+elem+foreach.tex"
 
 [[items]]
-title = "paper_folding+misc+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/paper_folding+misc+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/paper_folding+misc+foreach.png"
-alt= "paper_folding+misc+foreach.png"
-description = "https://github.com/zclab/tikz/"
-url = "https://github.com/zclab/tikz/blob/main/src/paper_folding+misc+foreach.tex"
-
-[[items]]
 title = "time-multiple-lines+timeline+set+pgf+foreach+command+scope+text.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-multiple-lines+timeline+set+pgf+foreach+command+scope+text.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-multiple-lines+timeline+set+pgf+foreach+command+scope+text.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-multiple-lines+timeline+set+pgf+foreach+command+scope+text.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-multiple-lines+timeline+set+pgf+foreach+command+scope+text.png"
 alt= "time-multiple-lines+timeline+set+pgf+foreach+command+scope+text.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-multiple-lines+timeline+set+pgf+foreach+command+scope+text.tex"
 
 [[items]]
 title = "mind_optional_argument+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_optional_argument+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_optional_argument+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_optional_argument+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_optional_argument+mindmap.png"
 alt= "mind_optional_argument+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_optional_argument+mindmap.tex"
 
 [[items]]
 title = "ml-cnn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/ml-cnn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/ml-cnn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/ml-cnn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/ml-cnn.png"
 alt= "ml-cnn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/ml-cnn.tex"
 
 [[items]]
 title = "elem-drawing_inside_box+elem+diagram+symbol.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-drawing_inside_box+elem+diagram+symbol.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-drawing_inside_box+elem+diagram+symbol.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-drawing_inside_box+elem+diagram+symbol.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-drawing_inside_box+elem+diagram+symbol.png"
 alt= "elem-drawing_inside_box+elem+diagram+symbol.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-drawing_inside_box+elem+diagram+symbol.tex"
 
 [[items]]
 title = "mind_long_text_boxes-fixed+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_long_text_boxes-fixed+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_long_text_boxes-fixed+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_long_text_boxes-fixed+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_long_text_boxes-fixed+mindmap.png"
 alt= "mind_long_text_boxes-fixed+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_long_text_boxes-fixed+mindmap.tex"
 
 [[items]]
 title = "time-long-labels-enumitem+timeline+text+style+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-long-labels-enumitem+timeline+text+style+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-long-labels-enumitem+timeline+text+style+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-long-labels-enumitem+timeline+text+style+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-long-labels-enumitem+timeline+text+style+foreach.png"
 alt= "time-long-labels-enumitem+timeline+text+style+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-long-labels-enumitem+timeline+text+style+foreach.tex"
 
 [[items]]
 title = "elem-circle_axes_ticks+elem+geometry+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-circle_axes_ticks+elem+geometry+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-circle_axes_ticks+elem+geometry+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-circle_axes_ticks+elem+geometry+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-circle_axes_ticks+elem+geometry+foreach.png"
 alt= "elem-circle_axes_ticks+elem+geometry+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-circle_axes_ticks+elem+geometry+foreach.tex"
 
 [[items]]
 title = "flow-direction_of_arrival+diagram+matrrix+table.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/flow-direction_of_arrival+diagram+matrrix+table.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/flow-direction_of_arrival+diagram+matrrix+table.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/flow-direction_of_arrival+diagram+matrrix+table.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/flow-direction_of_arrival+diagram+matrrix+table.png"
 alt= "flow-direction_of_arrival+diagram+matrrix+table.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/flow-direction_of_arrival+diagram+matrrix+table.tex"
 
 [[items]]
 title = "elem-cuboid_finer_grid+elem+foreach+command.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-cuboid_finer_grid+elem+foreach+command.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-cuboid_finer_grid+elem+foreach+command.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-cuboid_finer_grid+elem+foreach+command.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-cuboid_finer_grid+elem+foreach+command.png"
 alt= "elem-cuboid_finer_grid+elem+foreach+command.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-cuboid_finer_grid+elem+foreach+command.tex"
 
 [[items]]
 title = "time-snake_timescale+physics+timeline+def+foreach+multi+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-snake_timescale+physics+timeline+def+foreach+multi+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-snake_timescale+physics+timeline+def+foreach+multi+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-snake_timescale+physics+timeline+def+foreach+multi+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-snake_timescale+physics+timeline+def+foreach+multi+learn.png"
 alt= "time-snake_timescale+physics+timeline+def+foreach+multi+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-snake_timescale+physics+timeline+def+foreach+multi+learn.tex"
 
 [[items]]
 title = "class_diagram+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/class_diagram+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/class_diagram+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/class_diagram+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/class_diagram+diagram.png"
 alt= "class_diagram+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/class_diagram+diagram.tex"
 
 [[items]]
 title = "time-angling-text-3+timeline+foreach+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-angling-text-3+timeline+foreach+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-angling-text-3+timeline+foreach+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-angling-text-3+timeline+foreach+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-angling-text-3+timeline+foreach+learn.png"
 alt= "time-angling-text-3+timeline+foreach+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-angling-text-3+timeline+foreach+learn.tex"
 
 [[items]]
 title = "tree-networked_game.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/tree-networked_game.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/tree-networked_game.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/tree-networked_game.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/tree-networked_game.png"
 alt= "tree-networked_game.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/tree-networked_game.tex"
 
 [[items]]
 title = "nn-gan_parts+neuralnet.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-gan_parts+neuralnet.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-gan_parts+neuralnet.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-gan_parts+neuralnet.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-gan_parts+neuralnet.png"
 alt= "nn-gan_parts+neuralnet.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-gan_parts+neuralnet.tex"
 
 [[items]]
 title = "ai-artificial_intelligence_aiama_arr.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/ai-artificial_intelligence_aiama_arr.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/ai-artificial_intelligence_aiama_arr.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/ai-artificial_intelligence_aiama_arr.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/ai-artificial_intelligence_aiama_arr.png"
 alt= "ai-artificial_intelligence_aiama_arr.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/ai-artificial_intelligence_aiama_arr.tex"
 
 [[items]]
 title = "time-colored_custom_draw+timeline+text+pgf.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-colored_custom_draw+timeline+text+pgf.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-colored_custom_draw+timeline+text+pgf.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-colored_custom_draw+timeline+text+pgf.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-colored_custom_draw+timeline+text+pgf.png"
 alt= "time-colored_custom_draw+timeline+text+pgf.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-colored_custom_draw+timeline+text+pgf.tex"
 
 [[items]]
 title = "io-fit+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/io-fit+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/io-fit+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/io-fit+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/io-fit+diagram.png"
 alt= "io-fit+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/io-fit+diagram.tex"
 
 [[items]]
 title = "nn-09_manual_net+neuralnet+foreach+scope.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-09_manual_net+neuralnet+foreach+scope.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-09_manual_net+neuralnet+foreach+scope.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-09_manual_net+neuralnet+foreach+scope.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-09_manual_net+neuralnet+foreach+scope.png"
 alt= "nn-09_manual_net+neuralnet+foreach+scope.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-09_manual_net+neuralnet+foreach+scope.tex"
 
 [[items]]
 title = "nn_3in_3_h_3_out+neuralnet.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn_3in_3_h_3_out+neuralnet.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn_3in_3_h_3_out+neuralnet.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn_3in_3_h_3_out+neuralnet.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn_3in_3_h_3_out+neuralnet.png"
 alt= "nn_3in_3_h_3_out+neuralnet.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn_3in_3_h_3_out+neuralnet.tex"
 
 [[items]]
 title = "mind_adjust_keys+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_adjust_keys+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_adjust_keys+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_adjust_keys+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_adjust_keys+mindmap.png"
 alt= "mind_adjust_keys+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_adjust_keys+mindmap.tex"
 
 [[items]]
 title = "physics-vanderpol_oscilator.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-vanderpol_oscilator.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-vanderpol_oscilator.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-vanderpol_oscilator.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-vanderpol_oscilator.png"
 alt= "physics-vanderpol_oscilator.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/physics-vanderpol_oscilator.tex"
 
 [[items]]
 title = "impact-supreme_court-2+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-supreme_court-2+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-supreme_court-2+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-supreme_court-2+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-supreme_court-2+diagram.png"
 alt= "impact-supreme_court-2+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/impact-supreme_court-2+diagram.tex"
 
 [[items]]
 title = "matrix-product.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/matrix-product.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/matrix-product.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/matrix-product.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/matrix-product.png"
 alt= "matrix-product.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/matrix-product.tex"
 
 [[items]]
 title = "physics-poincare+diagram+foreach+set+command.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-poincare+diagram+foreach+set+command.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-poincare+diagram+foreach+set+command.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-poincare+diagram+foreach+set+command.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-poincare+diagram+foreach+set+command.png"
 alt= "physics-poincare+diagram+foreach+set+command.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/physics-poincare+diagram+foreach+set+command.tex"
 
 [[items]]
 title = "network-layers-and-layouts.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/network-layers-and-layouts.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/network-layers-and-layouts.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/network-layers-and-layouts.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/network-layers-and-layouts.png"
 alt= "network-layers-and-layouts.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/network-layers-and-layouts.tex"
 
 [[items]]
 title = "physics-torricelli.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-torricelli.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-torricelli.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-torricelli.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-torricelli.png"
 alt= "physics-torricelli.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/physics-torricelli.tex"
 
 [[items]]
 title = "time-1990-2010-arr+timeline+foreach+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-1990-2010-arr+timeline+foreach+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-1990-2010-arr+timeline+foreach+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-1990-2010-arr+timeline+foreach+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-1990-2010-arr+timeline+foreach+learn.png"
 alt= "time-1990-2010-arr+timeline+foreach+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-1990-2010-arr+timeline+foreach+learn.tex"
 
 [[items]]
 title = "circle_custom_with_arcs+symbol+geometry.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/circle_custom_with_arcs+symbol+geometry.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/circle_custom_with_arcs+symbol+geometry.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/circle_custom_with_arcs+symbol+geometry.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/circle_custom_with_arcs+symbol+geometry.png"
 alt= "circle_custom_with_arcs+symbol+geometry.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/circle_custom_with_arcs+symbol+geometry.tex"
 
 [[items]]
 title = "plot-spherical_coords+physics+3d.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-spherical_coords+physics+3d.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-spherical_coords+physics+3d.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-spherical_coords+physics+3d.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-spherical_coords+physics+3d.png"
 alt= "plot-spherical_coords+physics+3d.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/plot-spherical_coords+physics+3d.tex"
 
 [[items]]
 title = "time-t-delta-t+timeline+text+decoration.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-t-delta-t+timeline+text+decoration.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-t-delta-t+timeline+text+decoration.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-t-delta-t+timeline+text+decoration.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-t-delta-t+timeline+text+decoration.png"
 alt= "time-t-delta-t+timeline+text+decoration.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-t-delta-t+timeline+text+decoration.tex"
 
 [[items]]
 title = "time-biographical-cornerstones-arr+timeline+style+learn+text.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-biographical-cornerstones-arr+timeline+style+learn+text.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-biographical-cornerstones-arr+timeline+style+learn+text.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-biographical-cornerstones-arr+timeline+style+learn+text.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-biographical-cornerstones-arr+timeline+style+learn+text.png"
 alt= "time-biographical-cornerstones-arr+timeline+style+learn+text.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-biographical-cornerstones-arr+timeline+style+learn+text.tex"
 
 [[items]]
 title = "table-color.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/table-color.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/table-color.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/table-color.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/table-color.png"
 alt= "table-color.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/table-color.tex"
 
 [[items]]
 title = "tree-decision_to_drill+tree+command.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/tree-decision_to_drill+tree+command.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/tree-decision_to_drill+tree+command.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/tree-decision_to_drill+tree+command.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/tree-decision_to_drill+tree+command.png"
 alt= "tree-decision_to_drill+tree+command.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/tree-decision_to_drill+tree+command.tex"
 
 [[items]]
 title = "iso-planes_multiple_ocean+projection+style+scope+slant.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-planes_multiple_ocean+projection+style+scope+slant.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-planes_multiple_ocean+projection+style+scope+slant.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-planes_multiple_ocean+projection+style+scope+slant.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-planes_multiple_ocean+projection+style+scope+slant.png"
 alt= "iso-planes_multiple_ocean+projection+style+scope+slant.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/iso-planes_multiple_ocean+projection+style+scope+slant.tex"
 
 [[items]]
 title = "nn-1h_manual_net+neuralnet+style+matrix+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-1h_manual_net+neuralnet+style+matrix+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-1h_manual_net+neuralnet+style+matrix+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-1h_manual_net+neuralnet+style+matrix+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-1h_manual_net+neuralnet+style+matrix+foreach.png"
 alt= "nn-1h_manual_net+neuralnet+style+matrix+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-1h_manual_net+neuralnet+style+matrix+foreach.tex"
 
 [[items]]
 title = "elem-equation+elem+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-equation+elem+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-equation+elem+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-equation+elem+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-equation+elem+foreach.png"
 alt= "elem-equation+elem+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-equation+elem+foreach.tex"
 
 [[items]]
 title = "eng-spring_mass.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/eng-spring_mass.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/eng-spring_mass.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/eng-spring_mass.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/eng-spring_mass.png"
 alt= "eng-spring_mass.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/eng-spring_mass.tex"
 
 [[items]]
 title = "physics-moon_synodic_period.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-moon_synodic_period.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/physics-moon_synodic_period.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-moon_synodic_period.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/physics-moon_synodic_period.png"
 alt= "physics-moon_synodic_period.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/physics-moon_synodic_period.tex"
 
 [[items]]
 title = "mind_tutorials_videos+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_tutorials_videos+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_tutorials_videos+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_tutorials_videos+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_tutorials_videos+mindmap.png"
 alt= "mind_tutorials_videos+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_tutorials_videos+mindmap.tex"
 
 [[items]]
 title = "elem-node_connector+elem+diagram+command+params.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-node_connector+elem+diagram+command+params.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-node_connector+elem+diagram+command+params.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-node_connector+elem+diagram+command+params.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-node_connector+elem+diagram+command+params.png"
 alt= "elem-node_connector+elem+diagram+command+params.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-node_connector+elem+diagram+command+params.tex"
 
 [[items]]
 title = "nn-auto_net_icon+neuralnet+style+foreach+set+function+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-auto_net_icon+neuralnet+style+foreach+set+function+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-auto_net_icon+neuralnet+style+foreach+set+function+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-auto_net_icon+neuralnet+style+foreach+set+function+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-auto_net_icon+neuralnet+style+foreach+set+function+learn.png"
 alt= "nn-auto_net_icon+neuralnet+style+foreach+set+function+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-auto_net_icon+neuralnet+style+foreach+set+function+learn.tex"
 
 [[items]]
 title = "elem-system_measurement_model+elem+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-system_measurement_model+elem+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-system_measurement_model+elem+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-system_measurement_model+elem+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-system_measurement_model+elem+diagram.png"
 alt= "elem-system_measurement_model+elem+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-system_measurement_model+elem+diagram.tex"
 
 [[items]]
 title = "elem-cylinder+elem+3d+foreach+function.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-cylinder+elem+3d+foreach+function.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-cylinder+elem+3d+foreach+function.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-cylinder+elem+3d+foreach+function.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-cylinder+elem+3d+foreach+function.png"
 alt= "elem-cylinder+elem+3d+foreach+function.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-cylinder+elem+3d+foreach+function.tex"
 
 [[items]]
 title = "time-brace-and-dots-arr+timeline+style+text.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-brace-and-dots-arr+timeline+style+text.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-brace-and-dots-arr+timeline+style+text.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-brace-and-dots-arr+timeline+style+text.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-brace-and-dots-arr+timeline+style+text.png"
 alt= "time-brace-and-dots-arr+timeline+style+text.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-brace-and-dots-arr+timeline+style+text.tex"
 
 [[items]]
 title = "impact-circular_arrows+diagram+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-circular_arrows+diagram+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-circular_arrows+diagram+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-circular_arrows+diagram+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-circular_arrows+diagram+foreach.png"
 alt= "impact-circular_arrows+diagram+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/impact-circular_arrows+diagram+foreach.tex"
 
 [[items]]
 title = "impact-concentric-blocks+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-concentric-blocks+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-concentric-blocks+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-concentric-blocks+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-concentric-blocks+diagram.png"
 alt= "impact-concentric-blocks+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/impact-concentric-blocks+diagram.tex"
 
 [[items]]
 title = "flow-easy_flowchart+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/flow-easy_flowchart+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/flow-easy_flowchart+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/flow-easy_flowchart+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/flow-easy_flowchart+diagram.png"
 alt= "flow-easy_flowchart+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/flow-easy_flowchart+diagram.tex"
 
 [[items]]
 title = "nn_neuron+neuralnet.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn_neuron+neuralnet.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn_neuron+neuralnet.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn_neuron+neuralnet.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn_neuron+neuralnet.png"
 alt= "nn_neuron+neuralnet.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn_neuron+neuralnet.tex"
 
 [[items]]
 title = "time-rotated-labels+timeline+foreach+text+set+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-rotated-labels+timeline+foreach+text+set+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-rotated-labels+timeline+foreach+text+set+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-rotated-labels+timeline+foreach+text+set+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-rotated-labels+timeline+foreach+text+set+learn.png"
 alt= "time-rotated-labels+timeline+foreach+text+set+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-rotated-labels+timeline+foreach+text+set+learn.tex"
 
 [[items]]
 title = "drawstack+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/drawstack+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/drawstack+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/drawstack+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/drawstack+diagram.png"
 alt= "drawstack+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/drawstack+diagram.tex"
 
 [[items]]
 title = "nn-04_auto_net+neuralnet+matrix+style+foreach.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-04_auto_net+neuralnet+matrix+style+foreach.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-04_auto_net+neuralnet+matrix+style+foreach.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-04_auto_net+neuralnet+matrix+style+foreach.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-04_auto_net+neuralnet+matrix+style+foreach.png"
 alt= "nn-04_auto_net+neuralnet+matrix+style+foreach.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-04_auto_net+neuralnet+matrix+style+foreach.tex"
 
 [[items]]
 title = "tree-break_text_lines+tree.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/tree-break_text_lines+tree.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/tree-break_text_lines+tree.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/tree-break_text_lines+tree.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/tree-break_text_lines+tree.png"
 alt= "tree-break_text_lines+tree.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/tree-break_text_lines+tree.tex"
 
 [[items]]
 title = "iso-louvre-planes.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-louvre-planes.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-louvre-planes.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-louvre-planes.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-louvre-planes.png"
 alt= "iso-louvre-planes.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/iso-louvre-planes.tex"
 
 [[items]]
 title = "time-chronology-break-arr+timeline+text+advanced.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-chronology-break-arr+timeline+text+advanced.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-chronology-break-arr+timeline+text+advanced.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-chronology-break-arr+timeline+text+advanced.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-chronology-break-arr+timeline+text+advanced.png"
 alt= "time-chronology-break-arr+timeline+text+advanced.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-chronology-break-arr+timeline+text+advanced.tex"
 
 [[items]]
 title = "flow-android_lifecycle+block+style+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/flow-android_lifecycle+block+style+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/flow-android_lifecycle+block+style+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/flow-android_lifecycle+block+style+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/flow-android_lifecycle+block+style+learn.png"
 alt= "flow-android_lifecycle+block+style+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/flow-android_lifecycle+block+style+learn.tex"
 
 [[items]]
 title = "git_workflow+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/git_workflow+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/git_workflow+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/git_workflow+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/git_workflow+diagram.png"
 alt= "git_workflow+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/git_workflow+diagram.tex"
 
 [[items]]
 title = "plot-curves-is_lm+plot+command.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-curves-is_lm+plot+command.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-curves-is_lm+plot+command.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-curves-is_lm+plot+command.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-curves-is_lm+plot+command.png"
 alt= "plot-curves-is_lm+plot+command.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/plot-curves-is_lm+plot+command.tex"
 
 [[items]]
 title = "mind_specific_distance+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_specific_distance+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_specific_distance+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_specific_distance+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_specific_distance+mindmap.png"
 alt= "mind_specific_distance+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_specific_distance+mindmap.tex"
 
 [[items]]
 title = "iso-planes-multidimensional-array-inclined.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-planes-multidimensional-array-inclined.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/iso-planes-multidimensional-array-inclined.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-planes-multidimensional-array-inclined.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/iso-planes-multidimensional-array-inclined.png"
 alt= "iso-planes-multidimensional-array-inclined.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/iso-planes-multidimensional-array-inclined.tex"
 
 [[items]]
 title = "nn-block_diagram-perceptron+neuralnet+set+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-block_diagram-perceptron+neuralnet+set+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/nn-block_diagram-perceptron+neuralnet+set+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-block_diagram-perceptron+neuralnet+set+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/nn-block_diagram-perceptron+neuralnet+set+learn.png"
 alt= "nn-block_diagram-perceptron+neuralnet+set+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/nn-block_diagram-perceptron+neuralnet+set+learn.tex"
 
 [[items]]
 title = "mind_shaded+mindmap.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_shaded+mindmap.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/mind_shaded+mindmap.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_shaded+mindmap.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/mind_shaded+mindmap.png"
 alt= "mind_shaded+mindmap.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/mind_shaded+mindmap.tex"
 
 [[items]]
 title = "elem-mass_inclined_plane.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-mass_inclined_plane.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-mass_inclined_plane.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-mass_inclined_plane.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-mass_inclined_plane.png"
 alt= "elem-mass_inclined_plane.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-mass_inclined_plane.tex"
 
 [[items]]
 title = "plot-mesh+3d+pgf+function.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-mesh+3d+pgf+function.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/plot-mesh+3d+pgf+function.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-mesh+3d+pgf+function.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/plot-mesh+3d+pgf+function.png"
 alt= "plot-mesh+3d+pgf+function.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/plot-mesh+3d+pgf+function.tex"
 
 [[items]]
 title = "cylinder_with_two_parameters+geometry+style+learn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/cylinder_with_two_parameters+geometry+style+learn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/cylinder_with_two_parameters+geometry+style+learn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/cylinder_with_two_parameters+geometry+style+learn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/cylinder_with_two_parameters+geometry+style+learn.png"
 alt= "cylinder_with_two_parameters+geometry+style+learn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/cylinder_with_two_parameters+geometry+style+learn.tex"
 
 [[items]]
 title = "doc-ml-single_cnn.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/doc-ml-single_cnn.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/doc-ml-single_cnn.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/doc-ml-single_cnn.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/doc-ml-single_cnn.png"
 alt= "doc-ml-single_cnn.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/doc-ml-single_cnn.tex"
 
 [[items]]
 title = "impact-market_sector+diagram.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-market_sector+diagram.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/impact-market_sector+diagram.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-market_sector+diagram.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/impact-market_sector+diagram.png"
 alt= "impact-market_sector+diagram.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/impact-market_sector+diagram.tex"
 
 [[items]]
 title = "time-estimated-window+timeline+decoration+text.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-estimated-window+timeline+decoration+text.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/time-estimated-window+timeline+decoration+text.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-estimated-window+timeline+decoration+text.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/time-estimated-window+timeline+decoration+text.png"
 alt= "time-estimated-window+timeline+decoration+text.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/time-estimated-window+timeline+decoration+text.tex"
 
 [[items]]
 title = "elem-physics-example_atom+elem+physics.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-physics-example_atom+elem+physics.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-physics-example_atom+elem+physics.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-physics-example_atom+elem+physics.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-physics-example_atom+elem+physics.png"
 alt= "elem-physics-example_atom+elem+physics.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-physics-example_atom+elem+physics.tex"
 
 [[items]]
 title = "3d-cubes_isometric_shaded+3d.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-cubes_isometric_shaded+3d.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/3d-cubes_isometric_shaded+3d.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-cubes_isometric_shaded+3d.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/3d-cubes_isometric_shaded+3d.png"
 alt= "3d-cubes_isometric_shaded+3d.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/3d-cubes_isometric_shaded+3d.tex"
 
 [[items]]
 title = "elem-placing_labels.png"
-image = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-placing_labels.png"
-thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/out/elem-placing_labels.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-placing_labels.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/tikz/tikzout/elem-placing_labels.png"
 alt= "elem-placing_labels.png"
 description = "https://github.com/zclab/tikz/"
 url = "https://github.com/zclab/tikz/blob/main/src/elem-placing_labels.tex"
