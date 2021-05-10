@@ -37,12 +37,19 @@ class GenerateWebsiteData:
         return self._branch
 
     def format_item(self, file):
-        title = file.name
+        """get required information from file
+
+        Args:
+            file (Path): Path to the file
+
+        Returns:
+            tuple: title, image, thumb, alt, description, url
+        """
         image = self.img_url + self.out_dir + "/" + file.name
         url = self.rep_url + "blob/{}/{}/".format(self.branch, self.src_dir)
         url += file.with_suffix(".tex").name
 
-        return title, image, image, title, self.rep_url, url
+        return file.name, image, image, file.name, self.rep_url, url
 
     def generate_all_items_toml(self, *suffix, output_file):
 
